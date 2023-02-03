@@ -5,7 +5,7 @@ Scrapes WoW addon information from Github repositories.
 ## requirements
 
 * Python 3.10 or later
-* developer token
+* Github developer token
 
 ## usage
 
