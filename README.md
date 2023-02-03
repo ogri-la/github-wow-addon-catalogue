@@ -9,7 +9,6 @@ Scrapes WoW addon information from Github repositories.
 
 ## usage
 
-1. install: ./install.sh
-2. run: ./run.sh
-4. Generate a GitHub token and expose it in your environment as `RELEASE_JSON_ADDONS_GITHUB_TOKEN`
-5. Run `python -m cataloguer collect --merge`
+1. Generate a GitHub token and write it to `github-token`
+2. `./install.sh`
+3. `./run.sh`
