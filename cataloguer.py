@@ -367,7 +367,7 @@ async def get_projects(token: str):
             expire_after=CACHE_INDEFINITELY,
             urls_expire_after=EXPIRE_URLS,
         ),
-        connector=aiohttp.TCPConnector(limit_per_host=8),
+        connector=aiohttp.TCPConnector(limit_per_host=1),
         headers={
             "Accept": "application/vnd.github.v3+json",
             "Authorization": f"token {token}",
