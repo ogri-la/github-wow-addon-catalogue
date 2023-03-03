@@ -1,4 +1,4 @@
-/http-cache.db
+/http-cache.db*
 __pycache__
 venv
 github-token

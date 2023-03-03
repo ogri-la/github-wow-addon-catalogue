@@ -1,6 +1,7 @@
 # layday/github-wow-addon-catalogue
 
-Scrapes WoW addon information from Github repositories.
+Script to harvest World of Warcraft add-on medata which are hosted on GitHub
+and co-located catalogue.
 
 ## requirements
 

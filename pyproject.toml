@@ -10,7 +10,7 @@ requires-python = ">= 3.10"
 license.file = "LICENSE"
 dependencies = [
   "aiohttp",
-  "aiohttp-client-cache[sqlite] >= 0.8.0",
+  "aiohttp-client-cache >= 0.8.0",
   "cattrs",
   "click",
   "structlog",
@@ -19,8 +19,9 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
+  "black",
+  "poethepoet",
   "ruff",
-  "ufmt",
 ]
 
 [tool.black]
@@ -31,16 +32,42 @@ strict = ["cataloguer.py"]
 
 [tool.ruff]
 select = [
-  "A",
-  "B0",
-  "C",
-  "DTZ",
-  "E",
-  "EM",
-  "F",
-  "M",
-  "U",
-  "W",
-  "Y",
+  "A",    # flake8-builtins
+  "B0",   # flake8-bugbear excl. opinionated rules
+  "C4",   # flake8-comprehensions
+  "DTZ",  # flake8-datetimez
+  "E",    # pycodestyle
+  "F",    # pyflakes
+  "I",    # isort
+  "PGH",  # pygrep-hooks
+  "PIE",  # flake8-pie
+  "RUF",  # ruff
+  "UP",   # pyupgrade
+  "W",    # pycodestyle
 ]
+line-length = 99
 target-version = "py311"
+
+[tool.poe.env]
+__POE_TARGET = "cataloguer.py"
+
+[tool.poe.tasks]
+_black = "black $__POE_TARGET"
+_isort = "ruff --select I --fix $__POE_TARGET"
+format.sequence = [
+  "_black",
+  "_isort",
+]
+lint = "ruff --format grouped --show-source $__POE_TARGET"
+
+[tool.poe.tasks.install]
+shell = """
+set -e
+
+rm -rf venv
+python -m venv venv
+venv/bin/python -m pip install -e .[dev]
+"""
+
+[tool.poe.tasks.run]
+cmd = "venv/bin/python -m cataloguer collect --merge"
