@@ -33,7 +33,7 @@ USER_AGENT = "github-wow-addon-catalogue (+https://github.com/layday/github-wow-
 
 API_URL = URL("https://api.github.com/")
 
-_SEARCH_INTERVAL_HOURS = 2
+_SEARCH_INTERVAL_HOURS = 24
 
 CACHE_INDEFINITELY = -1
 EXPIRE_URLS = {
@@ -373,7 +373,7 @@ async def get_projects(token: str):
             "Authorization": f"token {token}",
             "User-Agent": USER_AGENT,
         },
-        timeout=aiohttp.ClientTimeout(sock_connect=10, sock_read=10),
+        timeout=aiohttp.ClientTimeout(sock_connect=30, sock_read=30),
     ) as client:
 
         @asynccontextmanager
