@@ -12,7 +12,7 @@ from collections import defaultdict
 from collections.abc import Iterable, Mapping, Sequence
 from contextlib import AbstractAsyncContextManager, asynccontextmanager
 from dataclasses import dataclass, fields
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime, timedelta
 from itertools import chain, dropwhile, pairwise
 from typing import Any, Literal, NewType, Protocol
 from zipfile import ZipFile
@@ -62,17 +62,23 @@ REPO_EXCLUDES = (
     "alchem1ster/AddOnsFixer",  # Not an add-on
     "BilboTheGreedy/Azerite",  # Not an add-on
     "Centias/BankItems",  # Fork
-    "DaMitchell/HelloWorld",
+    "DaMitchell/HelloWorld",  # Dummy add-on
     "dratr/BattlePetCount",  # Fork
+    "gorilla-devs/",  # Minecraft stuff
     "HappyRot/AddOns",  # Compilation
     "hippuli/",  # Fork galore
     "JsMacros/",  # Minecraft stuff
+    "juraj-hrivnak/Underdog",  # Minecraft stuff
     "Kirri777/WorldQuestsList",  # Fork
     "livepeer/",  # Minecraft stuff
     "lowlee/MikScrollingBattleText",  # Fork
     "lowlee/MSBTOptions",  # Fork
     "MikeD89/KarazhanChess",  # Hijacking BigWigs' TOC IDs, probably by accident
+    "Oppzippy/HuokanGoldLogger",  # Archived
+    "pinged-eu/wow-addon-helloworld",  # Dummy add-on
+    "rePublic-Studios/rPLauncher",  # Minecraft stuff
     "smashedr/MethodAltManager",  # Fork
+    "unix/curseforge-release",  # Template
     "wagyourtail/JsMacros",  # More Minecraft stuff
     "ynazar1/Arh",  # Fork
 )
@@ -118,10 +124,16 @@ TOC_ALIASES = {
 }
 
 TOP_LEVEL_TOC_NAME_PATTERN = re.compile(
-    (
-        rf"^(?P<name>[^/]+)[/](?P=name)(?:[-_](?P<flavor>{'|'.join(map(re.escape, TOC_ALIASES))}))?\.toc$"
-    ),
-    flags=re.I,
+    rf"""
+        ^
+        (?P<name>[^/]+)
+        [/]
+        (?P=name)
+        (?:[-_](?P<flavor>{'|'.join(map(re.escape, TOC_ALIASES))}))?
+        \.toc
+        $
+    """,
+    flags=re.I | re.X,
 )
 
 INTERFACE_RANGES_TO_FLAVORS = {
@@ -355,7 +367,7 @@ async def parse_repo(get: Get, repo: Mapping[str, Any]):
             last_updated=datetime.fromisoformat(f"{release['published_at'].rstrip('Z')}+00:00"),
             flavors=ProjectFlavors(flavors),
             has_release_json=maybe_release_json_asset is not None,
-            last_seen=datetime.now(timezone.utc),
+            last_seen=datetime.now(UTC),
             **project_ids,
         )
 
@@ -450,7 +462,7 @@ def log_run():
         except json.JSONDecodeError:
             orig_runs = []
 
-        now = datetime.now(timezone.utc)
+        now = datetime.now(UTC)
         combined_runs = set(
             chain(
                 orig_runs[-MIN_PRUNE_RUNS:],
