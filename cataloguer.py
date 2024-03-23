@@ -60,7 +60,9 @@ class Get(Protocol):
 REPO_EXCLUDES = (
     "alchem1ster/AddOns-Update-Tool",  # Not an add-on
     "alchem1ster/AddOnsFixer",  # Not an add-on
+    "Aviana/",
     "BilboTheGreedy/Azerite",  # Not an add-on
+    "blazer404/TargetCharmsRe",  # Fork
     "Centias/BankItems",  # Fork
     "DaMitchell/HelloWorld",  # Dummy add-on
     "dratr/BattlePetCount",  # Fork
@@ -69,6 +71,7 @@ REPO_EXCLUDES = (
     "hippuli/",  # Fork galore
     "JsMacros/",  # Minecraft stuff
     "juraj-hrivnak/Underdog",  # Minecraft stuff
+    "kamoo1/Kamoo-s-TSM-App",  # Not an add-on
     "Kirri777/WorldQuestsList",  # Fork
     "livepeer/",  # Minecraft stuff
     "lowlee/MikScrollingBattleText",  # Fork
@@ -78,8 +81,11 @@ REPO_EXCLUDES = (
     "pinged-eu/wow-addon-helloworld",  # Dummy add-on
     "rePublic-Studios/rPLauncher",  # Minecraft stuff
     "smashedr/MethodAltManager",  # Fork
+    "szjunklol/Accountant",  # Fork
     "unix/curseforge-release",  # Template
+    "unrealshape/AddOns",  # Add-on compilation
     "wagyourtail/JsMacros",  # More Minecraft stuff
+    "WowUp/WowUp",  # Not an add-on
     "ynazar1/Arh",  # Fork
 )
 
