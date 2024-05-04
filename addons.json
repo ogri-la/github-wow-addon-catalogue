@@ -1184,7 +1184,7 @@
 		"full_name": "Backupiseasy/ThreatPlates",
 		"html_url": "https://github.com/Backupiseasy/ThreatPlates",
 		"description": "Nameplate addon for World of Warcraft",
-		"updated-date": "2024-05-02T16:57:23Z",
+		"updated-date": "2024-05-04T11:18:28Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -2682,7 +2682,7 @@
 		"full_name": "Cidan/BetterBags",
 		"html_url": "https://github.com/Cidan/BetterBags",
 		"description": "A total replacement AddOn for World of Warcraft bag frames, inspired by AdiBags.",
-		"updated-date": "2024-05-02T15:05:16Z",
+		"updated-date": "2024-05-03T23:32:17Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -2788,6 +2788,25 @@
 		"flavor-list": [
 			"mainline"
 		],
+		"has-release-json": true
+	},
+	{
+		"id": 120390732,
+		"name": "AllTheThings",
+		"full_name": "DFortun81/AllTheThings",
+		"html_url": "https://github.com/DFortun81/AllTheThings",
+		"description": "ALL THE THINGS - Addon for Tracking Collections \u0026 Account Completion in World of Warcraft",
+		"updated-date": "2024-05-03T22:37:45Z",
+		"flavor-list": [
+			"mainline",
+			"vanilla",
+			"wrath",
+			"cata"
+		],
+		"project-id-map": {
+			"x-curse-project-id": "267285",
+			"x-wago-id": "yQKyY5K7"
+		},
 		"has-release-json": true
 	},
 	{
@@ -3382,9 +3401,6 @@
 		"flavor-list": [
 			"wrath"
 		],
-		"project-id-map": {
-			"x-curse-project-id": ""
-		},
 		"has-release-json": true
 	},
 	{
@@ -3397,9 +3413,6 @@
 		"flavor-list": [
 			"wrath"
 		],
-		"project-id-map": {
-			"x-curse-project-id": ""
-		},
 		"has-release-json": true
 	},
 	{
@@ -6086,11 +6099,12 @@
 		"full_name": "Limmek/Shitlist",
 		"html_url": "https://github.com/Limmek/Shitlist",
 		"description": "Set a personal note on a player",
-		"updated-date": "2023-12-14T08:44:39Z",
+		"updated-date": "2024-05-04T12:50:03Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "344967"
@@ -6399,11 +6413,14 @@
 		"full_name": "MrFox42/minarch",
 		"html_url": "https://github.com/MrFox42/minarch",
 		"description": "Minimal Archaeology addon for World of Warcraft",
-		"updated-date": "2024-05-02T05:46:03Z",
+		"updated-date": "2024-05-04T07:51:40Z",
 		"flavor-list": [
 			"mainline",
 			"cata"
 		],
+		"project-id-map": {
+			"x-curse-project-id": "28160"
+		},
 		"has-release-json": false
 	},
 	{
@@ -7558,7 +7575,7 @@
 		"full_name": "NumyAddon/BlizzMovePlugin_QuestTracker",
 		"html_url": "https://github.com/NumyAddon/BlizzMovePlugin_QuestTracker",
 		"description": "BlizzMove Plugin to make the QuestTracker movable",
-		"updated-date": "2024-04-30T16:39:49Z",
+		"updated-date": "2024-05-03T15:46:52Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -8202,11 +8219,11 @@
 		"full_name": "Pingumania/StartUp_Sounds",
 		"html_url": "https://github.com/Pingumania/StartUp_Sounds",
 		"description": "",
-		"updated-date": "2024-02-18T01:59:35Z",
+		"updated-date": "2024-05-04T06:00:59Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"has-release-json": true
 	},
@@ -8263,8 +8280,7 @@
 		],
 		"project-id-map": {
 			"x-curse-project-id": "955365",
-			"x-wago-id": "vNAex9No",
-			"x-wowi-id": ""
+			"x-wago-id": "vNAex9No"
 		},
 		"has-release-json": true
 	},
@@ -8347,7 +8363,7 @@
 		"full_name": "Questie/Questie",
 		"html_url": "https://github.com/Questie/Questie",
 		"description": "Questie: The WoW Classic quest helper",
-		"updated-date": "2024-05-02T22:31:54Z",
+		"updated-date": "2024-05-04T12:45:55Z",
 		"flavor-list": [
 			"vanilla",
 			"wrath",
@@ -8365,7 +8381,7 @@
 		"full_name": "RaiderIO/raiderio-addon",
 		"html_url": "https://github.com/RaiderIO/raiderio-addon",
 		"description": "RaiderIO AddOn",
-		"updated-date": "2024-05-03T09:08:28Z",
+		"updated-date": "2024-05-04T08:29:22Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -8635,9 +8651,9 @@
 			"mainline"
 		],
 		"project-id-map": {
-			"x-curse-project-id": "13592",
-			"x-wago-id": "kRNLgpGo",
-			"x-wowi-id": "12097"
+			"x-curse-project-id": "24324",
+			"x-wago-id": "WqKQln6x",
+			"x-wowi-id": "16951"
 		},
 		"has-release-json": true
 	},
@@ -10226,7 +10242,7 @@
 		"full_name": "TheKrowi/Krowi_AchievementFilter",
 		"html_url": "https://github.com/TheKrowi/Krowi_AchievementFilter",
 		"description": "Achievement Filter completely replaces the default Achievements tab and adds several tabs to the Achievement Window that order the achievements by expansion, pvp, events or other curated lists.",
-		"updated-date": "2024-05-01T17:38:28Z",
+		"updated-date": "2024-05-03T19:41:08Z",
 		"flavor-list": [
 			"mainline",
 			"wrath",
@@ -10818,7 +10834,7 @@
 		"full_name": "Vladinator/wow-addon-compactvendor",
 		"html_url": "https://github.com/Vladinator/wow-addon-compactvendor",
 		"description": "",
-		"updated-date": "2023-09-25T20:32:02Z",
+		"updated-date": "2024-05-03T17:12:43Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -11085,9 +11101,9 @@
 		"full_name": "Witnesscm/NDui_Plus",
 		"html_url": "https://github.com/Witnesscm/NDui_Plus",
 		"description": "NDui plugin",
-		"updated-date": "2024-05-03T00:19:18Z",
+		"updated-date": "2024-05-04T10:57:26Z",
 		"flavor-list": [
-			"mainline"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "389434",
@@ -12277,8 +12293,7 @@
 			"wrath"
 		],
 		"project-id-map": {
-			"x-curse-project-id": "97081",
-			"x-wowi-id": ""
+			"x-curse-project-id": "97081"
 		},
 		"has-release-json": true
 	},
@@ -12293,8 +12308,7 @@
 			"mainline"
 		],
 		"project-id-map": {
-			"x-curse-project-id": "85383",
-			"x-wowi-id": ""
+			"x-curse-project-id": "85383"
 		},
 		"has-release-json": true
 	},
@@ -12376,12 +12390,13 @@
 		"full_name": "arkayenro/arktest",
 		"html_url": "https://github.com/arkayenro/arktest",
 		"description": "packager testing",
-		"updated-date": "2022-11-04T23:52:34Z",
+		"updated-date": "2024-05-04T02:01:18Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "581591",
@@ -12984,9 +12999,9 @@
 		"full_name": "casualshammy/NameplateAuras",
 		"html_url": "https://github.com/casualshammy/NameplateAuras",
 		"description": "Addon for World of Warcraft that displays buffs/debuffs of players above their nameplates.",
-		"updated-date": "2024-04-29T22:12:21Z",
+		"updated-date": "2024-05-03T18:26:46Z",
 		"flavor-list": [
-			"mainline"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "101192",
@@ -13061,12 +13076,13 @@
 		"full_name": "chrisliebaer/FailFeed",
 		"html_url": "https://github.com/chrisliebaer/FailFeed",
 		"description": "World of Warcraft Adddon for Mythic+. Live feed for your brain damaged team mates.",
-		"updated-date": "2023-11-17T18:30:54Z",
+		"updated-date": "2024-05-03T11:46:07Z",
 		"flavor-list": [
 			"mainline"
 		],
 		"project-id-map": {
-			"x-curse-project-id": "935833"
+			"x-curse-project-id": "935833",
+			"x-wago-id": "b6XVROGp"
 		},
 		"has-release-json": true
 	},
@@ -13479,7 +13495,7 @@
 		"full_name": "d4kir92/DarkMode",
 		"html_url": "https://github.com/d4kir92/DarkMode",
 		"description": "",
-		"updated-date": "2024-05-02T12:34:22Z",
+		"updated-date": "2024-05-03T18:53:13Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13619,7 +13635,7 @@
 		"full_name": "d4kir92/MoveAny",
 		"html_url": "https://github.com/d4kir92/MoveAny",
 		"description": "Move Addon",
-		"updated-date": "2024-05-02T09:27:25Z",
+		"updated-date": "2024-05-04T08:39:29Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -14088,7 +14104,7 @@
 		"full_name": "doadin/Baggins",
 		"html_url": "https://github.com/doadin/Baggins",
 		"description": "",
-		"updated-date": "2024-05-01T20:48:11Z",
+		"updated-date": "2024-05-03T19:24:21Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -14171,7 +14187,7 @@
 		"full_name": "doadin/Plexus",
 		"html_url": "https://github.com/doadin/Plexus",
 		"description": "",
-		"updated-date": "2024-05-01T20:29:20Z",
+		"updated-date": "2024-05-04T06:34:41Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -14226,12 +14242,13 @@
 		"full_name": "doadin/PlexusClickSets",
 		"html_url": "https://github.com/doadin/PlexusClickSets",
 		"description": "",
-		"updated-date": "2024-03-19T15:51:02Z",
+		"updated-date": "2024-05-04T01:26:01Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "416218"
@@ -14262,12 +14279,13 @@
 		"full_name": "doadin/PlexusIndicatorsDynamic",
 		"html_url": "https://github.com/doadin/PlexusIndicatorsDynamic",
 		"description": "",
-		"updated-date": "2024-03-19T15:54:46Z",
+		"updated-date": "2024-05-04T00:47:37Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "414001"
@@ -14364,12 +14382,13 @@
 		"full_name": "doadin/PlexusStatusEnemyTarget",
 		"html_url": "https://github.com/doadin/PlexusStatusEnemyTarget",
 		"description": "",
-		"updated-date": "2024-03-19T15:57:55Z",
+		"updated-date": "2024-05-04T01:23:20Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "689512"
@@ -14382,12 +14401,13 @@
 		"full_name": "doadin/PlexusStatusExternals",
 		"html_url": "https://github.com/doadin/PlexusStatusExternals",
 		"description": "",
-		"updated-date": "2024-03-19T15:57:39Z",
+		"updated-date": "2024-05-04T00:43:32Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "103213"
@@ -14816,11 +14836,11 @@
 		"full_name": "enderneko/Cell",
 		"html_url": "https://github.com/enderneko/Cell",
 		"description": "A World of Warcraft raid frame addon.",
-		"updated-date": "2024-04-06T14:01:51Z",
+		"updated-date": "2024-05-03T16:43:08Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "409666",
@@ -16189,23 +16209,6 @@
 		"has-release-json": false
 	},
 	{
-		"id": 592036594,
-		"name": "ZoxeTweaks",
-		"full_name": "geek0x23/ZoxeTweaks",
-		"html_url": "https://github.com/geek0x23/ZoxeTweaks",
-		"description": "An addon to fix 1440p scaling, and make AtrocityUI more visible with proper ultra-wide support.",
-		"updated-date": "2024-02-16T22:36:23Z",
-		"flavor-list": [
-			"mainline",
-			"vanilla",
-			"wrath"
-		],
-		"project-id-map": {
-			"x-curse-project-id": "937180"
-		},
-		"has-release-json": true
-	},
-	{
 		"id": 308293365,
 		"name": "LootSpecManager",
 		"full_name": "gegenschall/LootSpecManager",
@@ -16517,7 +16520,7 @@
 		"full_name": "husandro/WoWTools",
 		"html_url": "https://github.com/husandro/WoWTools",
 		"description": "WoWTools",
-		"updated-date": "2024-05-01T16:57:24Z",
+		"updated-date": "2024-05-03T17:34:38Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -16548,7 +16551,7 @@
 		"full_name": "hypernormalisation/Scambuster-Golemagg",
 		"html_url": "https://github.com/hypernormalisation/Scambuster-Golemagg",
 		"description": "List of scammers and antisocial players on the WoW Classic Golemagg EU realm, curated by the Golemagg Discord, for use in the Scambuster addon framework.",
-		"updated-date": "2024-05-03T05:15:01Z",
+		"updated-date": "2024-05-04T05:15:02Z",
 		"flavor-list": [
 			"wrath"
 		],
@@ -16658,7 +16661,7 @@
 		"full_name": "icaca/WclPlayerScore-Sod",
 		"html_url": "https://github.com/icaca/WclPlayerScore-Sod",
 		"description": "WCL国服/亚服/美服/欧服/韩服数据，Plus版本",
-		"updated-date": "2024-05-02T16:57:17Z",
+		"updated-date": "2024-05-03T16:57:22Z",
 		"flavor-list": [
 			"vanilla"
 		],
@@ -16670,7 +16673,7 @@
 		"full_name": "icaca/WclPlayerScore-Vanilla",
 		"html_url": "https://github.com/icaca/WclPlayerScore-Vanilla",
 		"description": "WCL国服/亚服/美服/欧服/韩服数据，香草版本",
-		"updated-date": "2024-05-02T16:56:37Z",
+		"updated-date": "2024-05-03T16:56:39Z",
 		"flavor-list": [
 			"vanilla"
 		],
@@ -16682,7 +16685,7 @@
 		"full_name": "icaca/WclPlayerScore-WotLK",
 		"html_url": "https://github.com/icaca/WclPlayerScore-WotLK",
 		"description": "WCL国服/亚服/美服/欧服/韩服数据，巫妖王之怒版本",
-		"updated-date": "2024-05-02T16:56:22Z",
+		"updated-date": "2024-05-03T16:56:24Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -16895,11 +16898,6 @@
 			"vanilla",
 			"tbc"
 		],
-		"project-id-map": {
-			"x-curse-project-id": "",
-			"x-wago-id": "",
-			"x-wowi-id": ""
-		},
 		"has-release-json": true
 	},
 	{
@@ -17073,7 +17071,7 @@
 		"full_name": "jordonwow/bigdebuffs",
 		"html_url": "https://github.com/jordonwow/bigdebuffs",
 		"description": "",
-		"updated-date": "2024-04-30T04:27:09Z",
+		"updated-date": "2024-05-03T17:52:24Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -19207,7 +19205,7 @@
 		"full_name": "martinbjeldbak/Shotta",
 		"html_url": "https://github.com/martinbjeldbak/Shotta",
 		"description": "World of Warcraft addon to take screenshots at specific events",
-		"updated-date": "2024-05-01T15:59:17Z",
+		"updated-date": "2024-05-04T08:07:30Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla"
@@ -19547,7 +19545,7 @@
 		"full_name": "moody/Dejunk",
 		"html_url": "https://github.com/moody/Dejunk",
 		"description": "Simple junk selling and destroying for WoW.",
-		"updated-date": "2024-04-30T22:51:46Z",
+		"updated-date": "2024-05-03T16:52:59Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -20890,11 +20888,12 @@
 		"full_name": "papa-smurf/Gargul",
 		"html_url": "https://github.com/papa-smurf/Gargul",
 		"description": "",
-		"updated-date": "2024-05-01T23:12:53Z",
+		"updated-date": "2024-05-03T11:54:03Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "418746",
@@ -21428,7 +21427,7 @@
 		"full_name": "prsauer/gear-stick",
 		"html_url": "https://github.com/prsauer/gear-stick",
 		"description": "",
-		"updated-date": "2024-05-03T05:25:46Z",
+		"updated-date": "2024-05-04T05:25:49Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -21531,9 +21530,9 @@
 		"full_name": "ravelaso/MountSwitcher",
 		"html_url": "https://github.com/ravelaso/MountSwitcher",
 		"description": "World Of Warcraft - WOTLK Classic Addon - Switches your mounts depending on flying capabilities (fixes dalaran flying zone)",
-		"updated-date": "2023-10-14T20:10:38Z",
+		"updated-date": "2024-05-03T21:15:09Z",
 		"flavor-list": [
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "895976"
@@ -21922,7 +21921,7 @@
 		"full_name": "rootkit1337tv/NaowhUI_DFS4",
 		"html_url": "https://github.com/rootkit1337tv/NaowhUI_DFS4",
 		"description": "",
-		"updated-date": "2024-05-02T13:03:32Z",
+		"updated-date": "2024-05-04T10:19:48Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -22674,6 +22673,23 @@
 		"has-release-json": true
 	},
 	{
+		"id": 592036594,
+		"name": "ZoxeTweaks",
+		"full_name": "swaj/ZoxeTweaks",
+		"html_url": "https://github.com/swaj/ZoxeTweaks",
+		"description": "An addon to fix 1440p scaling, and make AtrocityUI more visible with proper ultra-wide support.",
+		"updated-date": "2024-02-16T22:36:23Z",
+		"flavor-list": [
+			"mainline",
+			"vanilla",
+			"wrath"
+		],
+		"project-id-map": {
+			"x-curse-project-id": "937180"
+		},
+		"has-release-json": true
+	},
+	{
 		"id": 204337742,
 		"name": "addon-control-panel",
 		"full_name": "sylvanaar/addon-control-panel",
@@ -23000,8 +23016,7 @@
 			"mainline"
 		],
 		"project-id-map": {
-			"x-curse-project-id": "865551",
-			"x-wago-id": ""
+			"x-curse-project-id": "865551"
 		},
 		"has-release-json": true
 	},
@@ -23144,7 +23159,7 @@
 		"full_name": "thespags/InstanceCurrencyTracker",
 		"html_url": "https://github.com/thespags/InstanceCurrencyTracker",
 		"description": "World of Warcraft Addon for tracking instances and currency across all characters.",
-		"updated-date": "2024-05-03T06:55:08Z",
+		"updated-date": "2024-05-04T03:59:31Z",
 		"flavor-list": [
 			"vanilla",
 			"wrath",
