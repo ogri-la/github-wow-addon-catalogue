@@ -1,3 +1,7 @@
+**Archived 2024-05-05 in favour of my translation here: https://github.com/ogri-la/github-wow-addon-catalogue-go**
+
+---
+
 # layday/github-wow-addon-catalogue
 
 Scrapes WoW addon information from Github repositories.
