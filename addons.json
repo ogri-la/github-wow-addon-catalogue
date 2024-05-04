@@ -77,11 +77,11 @@
 		"full_name": "2072/Decursive",
 		"html_url": "https://github.com/2072/Decursive",
 		"description": "Decursive: https://www.wowace.com/projects/decursive",
-		"updated-date": "2024-03-21T03:39:56Z",
+		"updated-date": "2024-05-02T00:53:01Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "2154"
@@ -94,9 +94,11 @@
 		"full_name": "2072/H-H-T-D",
 		"html_url": "https://github.com/2072/H-H-T-D",
 		"description": "",
-		"updated-date": "2024-03-05T01:11:45Z",
+		"updated-date": "2024-05-02T01:06:43Z",
 		"flavor-list": [
-			"mainline"
+			"mainline",
+			"vanilla",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "19474"
@@ -109,11 +111,11 @@
 		"full_name": "2072/LibNameplateRegistry-1.0",
 		"html_url": "https://github.com/2072/LibNameplateRegistry-1.0",
 		"description": "An embeddable library providing an abstraction layer for tracking and querying World of Warcraft' Nameplate frames",
-		"updated-date": "2024-01-21T21:53:14Z",
+		"updated-date": "2024-05-02T00:36:34Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "62519"
@@ -594,6 +596,9 @@
 			"tbc",
 			"wrath"
 		],
+		"project-id-map": {
+			"x-curse-project-id": "102242"
+		},
 		"has-release-json": true
 	},
 	{
@@ -616,7 +621,7 @@
 		"full_name": "AlexHaible/BetterBags-Appearances",
 		"html_url": "https://github.com/AlexHaible/BetterBags-Appearances",
 		"description": "Source code for a World of Warcraft addon, that adds a few transmog categories to BetterBags.",
-		"updated-date": "2024-04-21T23:32:11Z",
+		"updated-date": "2024-05-01T05:00:02Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -804,10 +809,11 @@
 		"full_name": "Anonomit/ItemCache",
 		"html_url": "https://github.com/Anonomit/ItemCache",
 		"description": "WoW addon. Caches item data returned by GetItemInfo() and more. Can be run standalone to store data between sessions, or can be embedded as a library.",
-		"updated-date": "2023-12-08T03:44:16Z",
+		"updated-date": "2024-05-02T04:09:18Z",
 		"flavor-list": [
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "591277",
@@ -821,10 +827,11 @@
 		"full_name": "Anonomit/LootReserve",
 		"html_url": "https://github.com/Anonomit/LootReserve",
 		"description": "WoW classic addon that helps master looters roll and distribute items.",
-		"updated-date": "2024-04-10T21:57:10Z",
+		"updated-date": "2024-05-02T04:14:54Z",
 		"flavor-list": [
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "390790",
@@ -838,10 +845,11 @@
 		"full_name": "Anonomit/ZeraTooltip",
 		"html_url": "https://github.com/Anonomit/ZeraTooltip",
 		"description": "WoW Classic addon which simplifies tooltip text.",
-		"updated-date": "2024-04-07T00:33:10Z",
+		"updated-date": "2024-04-30T03:41:15Z",
 		"flavor-list": [
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "533049",
@@ -1176,11 +1184,12 @@
 		"full_name": "Backupiseasy/ThreatPlates",
 		"html_url": "https://github.com/Backupiseasy/ThreatPlates",
 		"description": "Nameplate addon for World of Warcraft",
-		"updated-date": "2024-04-13T08:01:07Z",
+		"updated-date": "2024-05-02T16:57:23Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "21217",
@@ -1551,12 +1560,13 @@
 		"full_name": "BigWigsMods/BigWigs",
 		"html_url": "https://github.com/BigWigsMods/BigWigs",
 		"description": "Modular, lightweight, non-intrusive approach to boss encounter warnings.",
-		"updated-date": "2024-04-24T15:18:50Z",
+		"updated-date": "2024-05-01T05:30:20Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "2382",
@@ -1587,11 +1597,12 @@
 		"full_name": "BigWigsMods/BigWigs_BurningCrusade",
 		"html_url": "https://github.com/BigWigsMods/BigWigs_BurningCrusade",
 		"description": "A collection of BigWigs modules from the Burning Crusade era.",
-		"updated-date": "2024-01-17T02:58:25Z",
+		"updated-date": "2024-04-30T19:27:31Z",
 		"flavor-list": [
 			"mainline",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "50688",
@@ -1606,12 +1617,14 @@
 		"full_name": "BigWigsMods/BigWigs_Cataclysm",
 		"html_url": "https://github.com/BigWigsMods/BigWigs_Cataclysm",
 		"description": "A collection of BigWigs modules from the Cataclysm era.",
-		"updated-date": "2024-01-17T02:39:33Z",
+		"updated-date": "2024-05-03T06:58:56Z",
 		"flavor-list": [
-			"mainline"
+			"mainline",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "45694",
+			"x-wago-id": "kGr0z76y",
 			"x-wowi-id": "21755"
 		},
 		"has-release-json": true
@@ -1622,12 +1635,13 @@
 		"full_name": "BigWigsMods/BigWigs_Classic",
 		"html_url": "https://github.com/BigWigsMods/BigWigs_Classic",
 		"description": "A collection of BigWigs modules from the Classic era.",
-		"updated-date": "2024-04-19T01:53:23Z",
+		"updated-date": "2024-04-30T19:16:19Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "50625",
@@ -1659,12 +1673,13 @@
 		"full_name": "BigWigsMods/BigWigs_Countdown_HeroesOfTheStorm",
 		"html_url": "https://github.com/BigWigsMods/BigWigs_Countdown_HeroesOfTheStorm",
 		"description": "Adds countdown voices from Heroes of the Storm to BigWigs.",
-		"updated-date": "2024-04-10T03:39:16Z",
+		"updated-date": "2024-04-30T18:59:21Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "89683",
@@ -1679,12 +1694,13 @@
 		"full_name": "BigWigsMods/BigWigs_Countdown_Overwatch",
 		"html_url": "https://github.com/BigWigsMods/BigWigs_Countdown_Overwatch",
 		"description": "Adds countdown voices from the heroes in Overwatch to BigWigs.",
-		"updated-date": "2024-04-11T00:36:37Z",
+		"updated-date": "2024-04-30T18:58:21Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "100172",
@@ -1746,12 +1762,13 @@
 		"full_name": "BigWigsMods/BigWigs_Transcriptor",
 		"html_url": "https://github.com/BigWigsMods/BigWigs_Transcriptor",
 		"description": "Simple addon that uses BigWigs for pull/win/wipe detection and starts or stops Transcriptor logging accordingly.",
-		"updated-date": "2024-04-14T18:27:42Z",
+		"updated-date": "2024-04-30T18:55:11Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "53389",
@@ -1765,7 +1782,7 @@
 		"full_name": "BigWigsMods/BigWigs_Voice",
 		"html_url": "https://github.com/BigWigsMods/BigWigs_Voice",
 		"description": "A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.",
-		"updated-date": "2024-01-16T20:50:19Z",
+		"updated-date": "2024-04-30T18:55:26Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -1797,10 +1814,11 @@
 		"full_name": "BigWigsMods/BigWigs_WrathOfTheLichKing",
 		"html_url": "https://github.com/BigWigsMods/BigWigs_WrathOfTheLichKing",
 		"description": "A collection of BigWigs modules from the Wrath of the Lich King era.",
-		"updated-date": "2024-03-05T02:55:50Z",
+		"updated-date": "2024-05-01T02:02:54Z",
 		"flavor-list": [
 			"mainline",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "50417",
@@ -1815,12 +1833,13 @@
 		"full_name": "BigWigsMods/Capping",
 		"html_url": "https://github.com/BigWigsMods/Capping",
 		"description": "Battleground timers and other PvP features.",
-		"updated-date": "2024-03-20T01:46:36Z",
+		"updated-date": "2024-04-30T18:15:50Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "20143",
@@ -1835,7 +1854,7 @@
 		"full_name": "BigWigsMods/LittleWigs",
 		"html_url": "https://github.com/BigWigsMods/LittleWigs",
 		"description": "Boss warnings for 5-man dungeons \u0026 scenarios.",
-		"updated-date": "2024-04-25T17:13:17Z",
+		"updated-date": "2024-05-02T18:00:46Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -1856,12 +1875,13 @@
 		"full_name": "BigWigsMods/Transcriptor",
 		"html_url": "https://github.com/BigWigsMods/Transcriptor",
 		"description": "Logging utility for boss encounters.",
-		"updated-date": "2024-04-25T02:35:57Z",
+		"updated-date": "2024-04-30T18:17:37Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "14837",
@@ -1921,7 +1941,7 @@
 		"full_name": "BloodDragon2580/GroupLanguage",
 		"html_url": "https://github.com/BloodDragon2580/GroupLanguage",
 		"description": "GroupLanguage for BfA",
-		"updated-date": "2023-11-19T01:28:48Z",
+		"updated-date": "2024-04-28T18:34:31Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -1950,7 +1970,7 @@
 		"full_name": "BreakBB/ExtendedCharacterStats",
 		"html_url": "https://github.com/BreakBB/ExtendedCharacterStats",
 		"description": "Extended Character Stats: A WoW Classic addon",
-		"updated-date": "2024-03-27T07:27:28Z",
+		"updated-date": "2024-04-27T19:16:56Z",
 		"flavor-list": [
 			"vanilla",
 			"wrath"
@@ -1967,7 +1987,7 @@
 		"full_name": "Breeni/BtWLoadouts",
 		"html_url": "https://github.com/Breeni/BtWLoadouts",
 		"description": "",
-		"updated-date": "2024-03-20T16:55:58Z",
+		"updated-date": "2024-04-22T22:24:53Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -1984,7 +2004,7 @@
 		"full_name": "Breeni/BtWQuestsDragonflight",
 		"html_url": "https://github.com/Breeni/BtWQuestsDragonflight",
 		"description": "",
-		"updated-date": "2024-03-20T15:30:02Z",
+		"updated-date": "2024-04-28T17:29:06Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -2192,11 +2212,10 @@
 		"full_name": "CDAGaming/CraftPresence-Wow-Edition",
 		"html_url": "https://github.com/CDAGaming/CraftPresence-Wow-Edition",
 		"description": "Port of https://gitlab.com/CDAGaming/CraftPresence for World of Warcraft (Mirrored to Github from Gitlab)",
-		"updated-date": "2024-04-03T13:08:32Z",
+		"updated-date": "2024-04-25T00:33:20Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"tbc",
 			"wrath",
 			"cata"
 		],
@@ -2384,7 +2403,7 @@
 		"full_name": "Canettieri/currenciesmulti",
 		"html_url": "https://github.com/Canettieri/currenciesmulti",
 		"description": "This is the repository of a WoW addon called Titan Panel Currencies [Multi]. 💲",
-		"updated-date": "2024-03-20T19:28:24Z",
+		"updated-date": "2024-04-29T03:47:27Z",
 		"flavor-list": [
 			"mainline",
 			"wrath"
@@ -2461,7 +2480,7 @@
 		"full_name": "Chalsean/XFaction",
 		"html_url": "https://github.com/Chalsean/XFaction",
 		"description": "Enable cross faction roster visibility and communication between guilds of a confederate",
-		"updated-date": "2024-03-19T14:23:20Z",
+		"updated-date": "2024-04-28T19:03:21Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -2520,9 +2539,12 @@
 		"full_name": "Choonster-WoW-AddOns/CustomTooltips",
 		"html_url": "https://github.com/Choonster-WoW-AddOns/CustomTooltips",
 		"description": "A WoW AddOn to display custom tooltips for macros.",
-		"updated-date": "2023-11-12T06:23:57Z",
+		"updated-date": "2024-04-28T11:52:20Z",
 		"flavor-list": [
-			"mainline"
+			"mainline",
+			"vanilla",
+			"tbc",
+			"wrath"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "85995",
@@ -2660,11 +2682,11 @@
 		"full_name": "Cidan/BetterBags",
 		"html_url": "https://github.com/Cidan/BetterBags",
 		"description": "A total replacement AddOn for World of Warcraft bag frames, inspired by AdiBags.",
-		"updated-date": "2024-04-13T14:41:00Z",
+		"updated-date": "2024-05-02T15:05:16Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "942432",
@@ -2745,12 +2767,11 @@
 		"full_name": "CruelDrool/GuildRosterExport",
 		"html_url": "https://github.com/CruelDrool/GuildRosterExport",
 		"description": "World of Warcraft addon for exporting the guild roster to CSV, HTML, JSON, XML or YAML.",
-		"updated-date": "2024-02-03T00:28:54Z",
+		"updated-date": "2024-05-02T12:34:59Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"tbc",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-wago-id": "2jK8RlNy"
@@ -2763,29 +2784,10 @@
 		"full_name": "CucFlavius/scenemachine",
 		"html_url": "https://github.com/CucFlavius/scenemachine",
 		"description": "WoW addon frontend for ModelScene API",
-		"updated-date": "2024-03-27T07:04:04Z",
+		"updated-date": "2024-04-29T14:31:10Z",
 		"flavor-list": [
 			"mainline"
 		],
-		"has-release-json": true
-	},
-	{
-		"id": 120390732,
-		"name": "AllTheThings",
-		"full_name": "DFortun81/AllTheThings",
-		"html_url": "https://github.com/DFortun81/AllTheThings",
-		"description": "ALL THE THINGS - Addon for Tracking Collections \u0026 Account Completion in World of Warcraft",
-		"updated-date": "2024-04-22T16:55:29Z",
-		"flavor-list": [
-			"mainline",
-			"vanilla",
-			"wrath",
-			"cata"
-		],
-		"project-id-map": {
-			"x-curse-project-id": "267285",
-			"x-wago-id": "yQKyY5K7"
-		},
 		"has-release-json": true
 	},
 	{
@@ -2824,7 +2826,7 @@
 		"full_name": "DeadlyBossMods/DBM-BCVanilla",
 		"html_url": "https://github.com/DeadlyBossMods/DBM-BCVanilla",
 		"description": "Deadly Boss Mods (DBM) - BC \u0026 Vanilla mods (Retail)",
-		"updated-date": "2024-04-24T19:47:20Z",
+		"updated-date": "2024-04-29T02:13:05Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -2845,7 +2847,7 @@
 		"full_name": "DeadlyBossMods/DBM-BfA",
 		"html_url": "https://github.com/DeadlyBossMods/DBM-BfA",
 		"description": "Deadly Boss Mods (DBM) - Battle for Azeroth mods",
-		"updated-date": "2024-04-22T23:01:05Z",
+		"updated-date": "2024-04-29T02:17:03Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -2862,7 +2864,7 @@
 		"full_name": "DeadlyBossMods/DBM-Cataclysm",
 		"html_url": "https://github.com/DeadlyBossMods/DBM-Cataclysm",
 		"description": "Deadly Boss Mods (DBM) - Cataclysm mods",
-		"updated-date": "2024-04-22T23:01:41Z",
+		"updated-date": "2024-04-29T02:16:08Z",
 		"flavor-list": [
 			"mainline",
 			"cata"
@@ -2934,10 +2936,11 @@
 		"full_name": "DeadlyBossMods/DBM-Dungeons",
 		"html_url": "https://github.com/DeadlyBossMods/DBM-Dungeons",
 		"description": "This mod will add support for 5 man Dungeons and World Events, spanning Classic all the way to Dragonflight, to Deadly Boss Mods (DBM).",
-		"updated-date": "2024-04-13T00:49:29Z",
+		"updated-date": "2024-04-29T02:07:13Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
+			"tbc",
 			"wrath",
 			"cata"
 		],
@@ -2954,7 +2957,7 @@
 		"full_name": "DeadlyBossMods/DBM-Legion",
 		"html_url": "https://github.com/DeadlyBossMods/DBM-Legion",
 		"description": "Deadly Boss Mods (DBM) - Legion mods",
-		"updated-date": "2024-04-22T23:00:11Z",
+		"updated-date": "2024-04-29T02:16:52Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -2971,7 +2974,7 @@
 		"full_name": "DeadlyBossMods/DBM-MoP",
 		"html_url": "https://github.com/DeadlyBossMods/DBM-MoP",
 		"description": "Deadly Boss Mods (DBM) - MoP mods",
-		"updated-date": "2024-04-22T23:01:19Z",
+		"updated-date": "2024-04-29T02:16:23Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -3041,7 +3044,7 @@
 		"full_name": "DeadlyBossMods/DBM-Shadowlands",
 		"html_url": "https://github.com/DeadlyBossMods/DBM-Shadowlands",
 		"description": "Repo for Shadowlands content raid modules",
-		"updated-date": "2024-03-19T13:35:25Z",
+		"updated-date": "2024-04-29T02:17:13Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -3126,7 +3129,7 @@
 		"full_name": "DeadlyBossMods/DBM-WoD",
 		"html_url": "https://github.com/DeadlyBossMods/DBM-WoD",
 		"description": "Deadly Boss Mods (DBM) - WoD mods",
-		"updated-date": "2024-04-22T23:00:24Z",
+		"updated-date": "2024-04-29T02:16:38Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -3143,7 +3146,7 @@
 		"full_name": "DeadlyBossMods/DBM-WotLK",
 		"html_url": "https://github.com/DeadlyBossMods/DBM-WotLK",
 		"description": "Deadly Boss Mods (DBM) - WotLK mods",
-		"updated-date": "2024-04-22T23:00:38Z",
+		"updated-date": "2024-04-29T02:14:10Z",
 		"flavor-list": [
 			"mainline",
 			"wrath",
@@ -3162,7 +3165,7 @@
 		"full_name": "DeadlyBossMods/DeadlyBossMods",
 		"html_url": "https://github.com/DeadlyBossMods/DeadlyBossMods",
 		"description": "The ultimate encounter helper to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.",
-		"updated-date": "2024-04-23T22:30:56Z",
+		"updated-date": "2024-04-29T05:11:24Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -3175,7 +3178,7 @@
 			"x-wago-id": "qv633o6b",
 			"x-wowi-id": "8814"
 		},
-		"has-release-json": true
+		"has-release-json": false
 	},
 	{
 		"id": 707178617,
@@ -3183,7 +3186,7 @@
 		"full_name": "DennisRas/AlterEgo",
 		"html_url": "https://github.com/DennisRas/AlterEgo",
 		"description": "AlterEgo is a World of Warcraft addon to track the Mythic+ progress of all your characters",
-		"updated-date": "2024-04-24T14:21:14Z",
+		"updated-date": "2024-04-27T09:47:20Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -3244,10 +3247,11 @@
 		"full_name": "Dragnogd/Instance-Achievement-Tracker",
 		"html_url": "https://github.com/Dragnogd/Instance-Achievement-Tracker",
 		"description": "Track the completion and failure of achievements in raids and dungeons",
-		"updated-date": "2024-04-25T18:17:22Z",
+		"updated-date": "2024-05-02T21:03:48Z",
 		"flavor-list": [
 			"mainline",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "286675",
@@ -3694,7 +3698,7 @@
 		"full_name": "EsreverWoW/ShestakUI_Classic",
 		"html_url": "https://github.com/EsreverWoW/ShestakUI_Classic",
 		"description": "ShestakUI for Wrath Classic (3.4.3), Burning Crusade Classic (2.5.4), and WoW Classic (1.15.0)",
-		"updated-date": "2024-04-27T01:04:50Z",
+		"updated-date": "2024-05-02T01:03:59Z",
 		"flavor-list": [
 			"vanilla",
 			"tbc",
@@ -3714,11 +3718,11 @@
 		"full_name": "Evonder/TradeFilter",
 		"html_url": "https://github.com/Evonder/TradeFilter",
 		"description": "A World of Warcraft spam filter.",
-		"updated-date": "2023-05-29T15:40:44Z",
+		"updated-date": "2024-05-03T02:11:30Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "16408",
@@ -4029,7 +4033,7 @@
 		"full_name": "Ghostopheles/Datamine",
 		"html_url": "https://github.com/Ghostopheles/Datamine",
 		"description": "An addon for World of Warcraft aimed at increasing in-game data availability.",
-		"updated-date": "2024-04-24T12:47:43Z",
+		"updated-date": "2024-04-30T06:02:11Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -4188,7 +4192,7 @@
 		"full_name": "GoldpawsStuff/AzeriteUI5",
 		"html_url": "https://github.com/GoldpawsStuff/AzeriteUI5",
 		"description": "Custom user interface suite for World of Warcraft. Design and code by Lars Norberg and Daniel Troconis.",
-		"updated-date": "2024-04-25T09:30:32Z",
+		"updated-date": "2024-04-30T13:05:35Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -5203,9 +5207,10 @@
 		"full_name": "IrcDirk/Carbonite-Classic",
 		"html_url": "https://github.com/IrcDirk/Carbonite-Classic",
 		"description": "Carbonite + Modules for WoW Classic",
-		"updated-date": "2024-02-16T10:08:09Z",
+		"updated-date": "2024-05-02T10:09:15Z",
 		"flavor-list": [
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "342147",
@@ -5270,7 +5275,7 @@
 		"full_name": "JackRhodes/RevsShared",
 		"html_url": "https://github.com/JackRhodes/RevsShared",
 		"description": "A collection of shared code and assets for use by Revolutions WoW Guild",
-		"updated-date": "2023-01-17T00:11:22Z",
+		"updated-date": "2024-05-01T11:23:06Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -5602,10 +5607,11 @@
 		"full_name": "Karl-HeinzSchneider/WoW-DragonflightUI",
 		"html_url": "https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI",
 		"description": "World of Warcraft (classic) Addon to bring the new Retail UI to WoW Classic!",
-		"updated-date": "2024-04-06T06:11:42Z",
+		"updated-date": "2024-05-01T20:17:48Z",
 		"flavor-list": [
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "819757"
@@ -5618,12 +5624,13 @@
 		"full_name": "Kiatra/BlizzMove",
 		"html_url": "https://github.com/Kiatra/BlizzMove",
 		"description": "World of Warcraft add-on to make the default windows movable via drag \u0026 drop.",
-		"updated-date": "2024-04-03T13:02:29Z",
+		"updated-date": "2024-04-27T18:02:10Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "17809",
@@ -5729,11 +5736,11 @@
 		"full_name": "KyrosKrane/AnnoyingPopupRemover",
 		"html_url": "https://github.com/KyrosKrane/AnnoyingPopupRemover",
 		"description": "World of Warcraft addon to remove some annoying popups in the game",
-		"updated-date": "2024-04-23T14:42:09Z",
+		"updated-date": "2024-05-02T20:35:37Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "93154",
@@ -5878,11 +5885,12 @@
 		"full_name": "Lardeck/PermoksAccountManager",
 		"html_url": "https://github.com/Lardeck/PermoksAccountManager",
 		"description": "",
-		"updated-date": "2024-04-26T08:56:06Z",
+		"updated-date": "2024-05-02T16:07:15Z",
 		"flavor-list": [
 			"mainline",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "582886",
@@ -6134,12 +6142,13 @@
 		"full_name": "Luxocracy/NeatPlates",
 		"html_url": "https://github.com/Luxocracy/NeatPlates",
 		"description": "NeatPlates is a continuation of the original Tidy Plates in an attempt to keep it update date in the absence of its authors.",
-		"updated-date": "2024-01-18T14:50:29Z",
+		"updated-date": "2024-05-01T07:56:19Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"has-release-json": true
 	},
@@ -6211,6 +6220,11 @@
 			"tbc",
 			"wrath"
 		],
+		"project-id-map": {
+			"x-curse-project-id": "694919",
+			"x-wago-id": "nQN5v36B",
+			"x-wowi-id": "26439"
+		},
 		"has-release-json": true
 	},
 	{
@@ -6324,13 +6338,12 @@
 		"full_name": "Mortalknight/GW2_UI",
 		"html_url": "https://github.com/Mortalknight/GW2_UI",
 		"description": "g",
-		"updated-date": "2024-04-26T17:14:15Z",
+		"updated-date": "2024-05-02T17:18:25Z",
 		"flavor-list": [
-			"mainline"
+			"vanilla"
 		],
 		"project-id-map": {
-			"x-curse-project-id": "94310",
-			"x-wago-id": "Mj6jXpGR"
+			"x-curse-project-id": "94310"
 		},
 		"has-release-json": true
 	},
@@ -6352,9 +6365,9 @@
 		"full_name": "MotherGinger/RecklessAbandon-Classic",
 		"html_url": "https://github.com/MotherGinger/RecklessAbandon-Classic",
 		"description": "A WoW Classic addon for quickly (and recklessly) abandoning quests",
-		"updated-date": "2024-04-03T17:34:15Z",
+		"updated-date": "2024-05-01T04:32:24Z",
 		"flavor-list": [
-			"vanilla"
+			"cata"
 		],
 		"has-release-json": false
 	},
@@ -6377,6 +6390,19 @@
 		"updated-date": "2020-12-16T21:53:03Z",
 		"flavor-list": [
 			"mainline"
+		],
+		"has-release-json": false
+	},
+	{
+		"id": 192669773,
+		"name": "minarch",
+		"full_name": "MrFox42/minarch",
+		"html_url": "https://github.com/MrFox42/minarch",
+		"description": "Minimal Archaeology addon for World of Warcraft",
+		"updated-date": "2024-05-02T05:46:03Z",
+		"flavor-list": [
+			"mainline",
+			"cata"
 		],
 		"has-release-json": false
 	},
@@ -6423,11 +6449,10 @@
 		"full_name": "Myrroddin/MrBigglesworthDeath",
 		"html_url": "https://github.com/Myrroddin/MrBigglesworthDeath",
 		"description": "",
-		"updated-date": "2024-04-25T18:39:54Z",
+		"updated-date": "2024-05-02T10:26:25Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath",
 			"cata"
 		],
 		"project-id-map": {
@@ -6568,10 +6593,9 @@
 		"full_name": "Myrroddin/hideminimapbutton",
 		"html_url": "https://github.com/Myrroddin/hideminimapbutton",
 		"description": "",
-		"updated-date": "2024-04-25T18:38:21Z",
+		"updated-date": "2024-05-02T10:04:28Z",
 		"flavor-list": [
 			"vanilla",
-			"wrath",
 			"cata"
 		],
 		"project-id-map": {
@@ -6607,11 +6631,12 @@
 		"full_name": "Myrroddin/price-answer",
 		"html_url": "https://github.com/Myrroddin/price-answer",
 		"description": "",
-		"updated-date": "2024-04-08T14:59:59Z",
+		"updated-date": "2024-05-01T03:45:19Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "661710",
@@ -6646,11 +6671,11 @@
 		"full_name": "Myrroddin/sharedmedia-classicalfonts",
 		"html_url": "https://github.com/Myrroddin/sharedmedia-classicalfonts",
 		"description": "",
-		"updated-date": "2024-04-06T11:40:24Z",
+		"updated-date": "2024-05-02T09:33:06Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "57737",
@@ -6665,11 +6690,11 @@
 		"full_name": "Myrroddin/tradeskillmaster-string-converter",
 		"html_url": "https://github.com/Myrroddin/tradeskillmaster-string-converter",
 		"description": "",
-		"updated-date": "2024-04-06T11:20:10Z",
+		"updated-date": "2024-05-02T10:29:54Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "311361",
@@ -6889,7 +6914,7 @@
 		"full_name": "N6REJ/AdiBags_Bears_Keystones",
 		"html_url": "https://github.com/N6REJ/AdiBags_Bears_Keystones",
 		"description": "",
-		"updated-date": "2024-03-20T01:31:33Z",
+		"updated-date": "2024-04-23T16:08:51Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -7063,11 +7088,12 @@
 		"full_name": "Nevcairiel/Bartender4",
 		"html_url": "https://github.com/Nevcairiel/Bartender4",
 		"description": "ActionBar AddOn for World of Warcraft",
-		"updated-date": "2024-03-20T07:30:31Z",
+		"updated-date": "2024-05-01T06:27:10Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "13501",
@@ -7081,13 +7107,13 @@
 		"full_name": "Nevcairiel/GatherMate2",
 		"html_url": "https://github.com/Nevcairiel/GatherMate2",
 		"description": "GatherMate2 is an addon to collect and track herbs, mines, fishing pools, gas clouds, archaelogy finds and treasures for World of Warcraft",
-		"updated-date": "2024-03-20T07:48:07Z",
+		"updated-date": "2024-05-03T06:57:23Z",
 		"flavor-list": [
-			"mainline"
+			"vanilla",
+			"cata"
 		],
 		"project-id-map": {
-			"x-curse-project-id": "26120",
-			"x-wowi-id": "21293"
+			"x-curse-project-id": "405809"
 		},
 		"has-release-json": true
 	},
@@ -7112,11 +7138,11 @@
 		"full_name": "Nevcairiel/HandyNotes",
 		"html_url": "https://github.com/Nevcairiel/HandyNotes",
 		"description": "Handy Notes for your maps. ",
-		"updated-date": "2024-03-20T07:30:47Z",
+		"updated-date": "2024-05-01T06:50:37Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "14154",
@@ -7145,9 +7171,12 @@
 		"full_name": "Nevcairiel/Inventorian",
 		"html_url": "https://github.com/Nevcairiel/Inventorian",
 		"description": "Inventorian is a simple bag addon for World of Warcraft that combines all individual bags into one huge inventory for easier management.",
-		"updated-date": "2024-03-20T07:31:39Z",
+		"updated-date": "2024-05-01T06:52:08Z",
 		"flavor-list": [
-			"mainline"
+			"vanilla",
+			"tbc",
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "85646"
@@ -7176,11 +7205,11 @@
 		"full_name": "Nevcairiel/Quartz",
 		"html_url": "https://github.com/Nevcairiel/Quartz",
 		"description": "Quartz is a modular approach to a casting bar addon for World of Warcraft",
-		"updated-date": "2024-03-20T07:33:10Z",
+		"updated-date": "2024-05-01T14:42:51Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "4558",
@@ -7226,11 +7255,11 @@
 		"full_name": "NielsHeltner/wowhead-quick-link",
 		"html_url": "https://github.com/NielsHeltner/wowhead-quick-link",
 		"description": "World of Warcraft Addon that allows you to quickly look up anything on Wowhead without having to manually search for it.",
-		"updated-date": "2024-02-10T05:58:32Z",
+		"updated-date": "2024-05-01T23:36:11Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "326804"
@@ -7335,7 +7364,7 @@
 		"full_name": "Nitrak/Vocal-Raid-Assistant",
 		"html_url": "https://github.com/Nitrak/Vocal-Raid-Assistant",
 		"description": "",
-		"updated-date": "2024-04-23T20:32:28Z",
+		"updated-date": "2024-05-01T04:25:57Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -7369,7 +7398,7 @@
 		"full_name": "Nnoggie/MythicDungeonTools",
 		"html_url": "https://github.com/Nnoggie/MythicDungeonTools",
 		"description": "World of Warcraft AddOn for planning and optimizing Mythic+ dungeon runs ",
-		"updated-date": "2024-04-27T00:12:16Z",
+		"updated-date": "2024-04-28T21:52:49Z",
 		"flavor-list": [
 			"mainline",
 			"wrath"
@@ -7529,12 +7558,13 @@
 		"full_name": "NumyAddon/BlizzMovePlugin_QuestTracker",
 		"html_url": "https://github.com/NumyAddon/BlizzMovePlugin_QuestTracker",
 		"description": "BlizzMove Plugin to make the QuestTracker movable",
-		"updated-date": "2024-04-03T13:02:22Z",
+		"updated-date": "2024-04-30T16:39:49Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "475676",
@@ -7609,12 +7639,13 @@
 		"full_name": "NumyAddon/GKickCommand",
 		"html_url": "https://github.com/NumyAddon/GKickCommand",
 		"description": "",
-		"updated-date": "2024-04-03T13:02:23Z",
+		"updated-date": "2024-04-30T16:40:02Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "471057",
@@ -7644,12 +7675,13 @@
 		"full_name": "NumyAddon/InviteOnWhisper",
 		"html_url": "https://github.com/NumyAddon/InviteOnWhisper",
 		"description": "WoW addon",
-		"updated-date": "2024-04-03T13:02:27Z",
+		"updated-date": "2024-04-30T16:40:17Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "280284",
@@ -7694,12 +7726,13 @@
 		"full_name": "NumyAddon/MacroToolkit",
 		"html_url": "https://github.com/NumyAddon/MacroToolkit",
 		"description": "https://www.curseforge.com/wow/addons/macro-toolkit",
-		"updated-date": "2024-04-20T09:11:34Z",
+		"updated-date": "2024-04-30T16:40:33Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "47117"
@@ -7743,12 +7776,13 @@
 		"full_name": "NumyAddon/NoAutoClose",
 		"html_url": "https://github.com/NumyAddon/NoAutoClose",
 		"description": "",
-		"updated-date": "2024-04-11T18:48:19Z",
+		"updated-date": "2024-04-30T16:40:45Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "689952"
@@ -7837,7 +7871,7 @@
 		"full_name": "NumyAddon/TalentTreeViewer",
 		"html_url": "https://github.com/NumyAddon/TalentTreeViewer",
 		"description": "",
-		"updated-date": "2024-04-17T16:11:50Z",
+		"updated-date": "2024-05-01T11:59:30Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -7882,7 +7916,7 @@
 		"full_name": "Oppzippy/AutoPayout",
 		"html_url": "https://github.com/Oppzippy/AutoPayout",
 		"description": "Quickly send out gold to many characters at once.",
-		"updated-date": "2024-03-22T08:53:34Z",
+		"updated-date": "2024-05-01T10:18:49Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -7911,12 +7945,13 @@
 		"full_name": "Oppzippy/CopyAnything",
 		"html_url": "https://github.com/Oppzippy/CopyAnything",
 		"description": "World of Warcraft addon to copy text from any visible frame.",
-		"updated-date": "2024-03-22T08:54:11Z",
+		"updated-date": "2024-05-01T10:19:45Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "341960",
@@ -7931,12 +7966,13 @@
 		"full_name": "Oppzippy/GlobalSearch",
 		"html_url": "https://github.com/Oppzippy/GlobalSearch",
 		"description": "World of Warcraft addon that provides a global search, similar to what you'd find in an IDE.",
-		"updated-date": "2024-03-24T08:47:06Z",
+		"updated-date": "2024-05-01T10:18:11Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "638729",
@@ -7951,12 +7987,13 @@
 		"full_name": "Oppzippy/GoldStockSummary",
 		"html_url": "https://github.com/Oppzippy/GoldStockSummary",
 		"description": "World of Warcaft addon that tracks gold across all characters on an account.",
-		"updated-date": "2024-03-22T08:53:54Z",
+		"updated-date": "2024-05-01T10:18:38Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "650309",
@@ -7987,10 +8024,11 @@
 		"full_name": "Oppzippy/TankMD",
 		"html_url": "https://github.com/Oppzippy/TankMD",
 		"description": "World of Warcraft addon for easily casting Misdirection on tanks.",
-		"updated-date": "2024-04-20T05:12:54Z",
+		"updated-date": "2024-05-01T10:20:06Z",
 		"flavor-list": [
 			"mainline",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "258204",
@@ -8219,7 +8257,7 @@
 		"full_name": "PvPAssistant/PvPAssistant",
 		"html_url": "https://github.com/PvPAssistant/PvPAssistant",
 		"description": "",
-		"updated-date": "2024-04-26T04:43:51Z",
+		"updated-date": "2024-04-30T04:59:18Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -8252,12 +8290,12 @@
 		"full_name": "QartemisT/DBM-LogoutTimer",
 		"html_url": "https://github.com/QartemisT/DBM-LogoutTimer",
 		"description": "",
-		"updated-date": "2024-01-17T11:50:40Z",
+		"updated-date": "2024-04-27T02:48:27Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "427013",
@@ -8290,12 +8328,12 @@
 		"full_name": "QartemisT/DBM-TURUL-MusicPack",
 		"html_url": "https://github.com/QartemisT/DBM-TURUL-MusicPack",
 		"description": "",
-		"updated-date": "2023-07-06T16:42:44Z",
+		"updated-date": "2024-04-27T02:43:21Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "523139",
@@ -8309,7 +8347,7 @@
 		"full_name": "Questie/Questie",
 		"html_url": "https://github.com/Questie/Questie",
 		"description": "Questie: The WoW Classic quest helper",
-		"updated-date": "2024-04-30T21:42:17Z",
+		"updated-date": "2024-05-02T22:31:54Z",
 		"flavor-list": [
 			"vanilla",
 			"wrath",
@@ -8327,7 +8365,7 @@
 		"full_name": "RaiderIO/raiderio-addon",
 		"html_url": "https://github.com/RaiderIO/raiderio-addon",
 		"description": "RaiderIO AddOn",
-		"updated-date": "2024-04-26T07:56:30Z",
+		"updated-date": "2024-05-03T09:08:28Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -8443,7 +8481,7 @@
 		"full_name": "Ranoth/Ranoth-s-Utility",
 		"html_url": "https://github.com/Ranoth/Ranoth-s-Utility",
 		"description": "Ranoth's Utility is a World of Warcraft addon designed to make my life easier. Kind of like LeatrixPlus with features I specifically want.",
-		"updated-date": "2024-04-25T19:37:51Z",
+		"updated-date": "2024-05-02T22:15:15Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -8597,9 +8635,9 @@
 			"mainline"
 		],
 		"project-id-map": {
-			"x-curse-project-id": "19305",
-			"x-wago-id": "RXKqooNy",
-			"x-wowi-id": "13526"
+			"x-curse-project-id": "13592",
+			"x-wago-id": "kRNLgpGo",
+			"x-wowi-id": "12097"
 		},
 		"has-release-json": true
 	},
@@ -8639,11 +8677,12 @@
 		"full_name": "RestedXP/RXPGuides",
 		"html_url": "https://github.com/RestedXP/RXPGuides",
 		"description": "RXPGuides is a platform to write in-game leveling guides for WoW Classic",
-		"updated-date": "2024-04-26T23:46:26Z",
+		"updated-date": "2024-05-02T21:54:15Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "486246"
@@ -9446,7 +9485,7 @@
 		"full_name": "SavedInstances/SavedInstances",
 		"html_url": "https://github.com/SavedInstances/SavedInstances",
 		"description": "Addon that keeps track of the instance/raid lockouts saved against your characters, and related currencies and cooldowns.",
-		"updated-date": "2024-04-03T15:03:19Z",
+		"updated-date": "2024-04-27T20:50:48Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -9735,11 +9774,11 @@
 		"full_name": "Snakybo/Clicked",
 		"html_url": "https://github.com/Snakybo/Clicked",
 		"description": "A keybind management addon for World of Warcraft.",
-		"updated-date": "2024-04-07T21:25:58Z",
+		"updated-date": "2024-05-01T10:04:09Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "405267",
@@ -9968,12 +10007,13 @@
 		"full_name": "Talryn/Alts",
 		"html_url": "https://github.com/Talryn/Alts",
 		"description": "WoW addon to track main-alt associations.",
-		"updated-date": "2023-10-12T02:28:42Z",
+		"updated-date": "2024-04-30T19:39:25Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "26572",
@@ -10026,12 +10066,13 @@
 		"full_name": "Talryn/CharacterNotes",
 		"html_url": "https://github.com/Talryn/CharacterNotes",
 		"description": "WoW addon to manage notes on characters.",
-		"updated-date": "2023-10-30T20:22:05Z",
+		"updated-date": "2024-04-30T19:39:49Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "24993",
@@ -10046,12 +10087,13 @@
 		"full_name": "Talryn/FriendNotes",
 		"html_url": "https://github.com/Talryn/FriendNotes",
 		"description": "WoW addon to show notes in tooltips, at logon, and in /who results.",
-		"updated-date": "2023-10-12T02:31:57Z",
+		"updated-date": "2024-04-30T21:09:06Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "25543",
@@ -10066,12 +10108,13 @@
 		"full_name": "Talryn/GuildSearch",
 		"html_url": "https://github.com/Talryn/GuildSearch",
 		"description": "WoW addon to search the guild roster.",
-		"updated-date": "2023-10-12T02:29:58Z",
+		"updated-date": "2024-04-30T19:40:50Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "25054",
@@ -10086,12 +10129,13 @@
 		"full_name": "Talryn/PeaceAndQuiet",
 		"html_url": "https://github.com/Talryn/PeaceAndQuiet",
 		"description": "WoW addon to turn off chat channels in certain zones.",
-		"updated-date": "2023-10-12T02:30:27Z",
+		"updated-date": "2024-04-30T19:40:17Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "25564",
@@ -10182,10 +10226,11 @@
 		"full_name": "TheKrowi/Krowi_AchievementFilter",
 		"html_url": "https://github.com/TheKrowi/Krowi_AchievementFilter",
 		"description": "Achievement Filter completely replaces the default Achievements tab and adds several tabs to the Achievement Window that order the achievements by expansion, pvp, events or other curated lists.",
-		"updated-date": "2024-04-24T19:57:05Z",
+		"updated-date": "2024-05-01T17:38:28Z",
 		"flavor-list": [
 			"mainline",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "413582"
@@ -10263,7 +10308,7 @@
 		"full_name": "Thekinghim/keystone-companion",
 		"html_url": "https://github.com/Thekinghim/keystone-companion",
 		"description": "",
-		"updated-date": "2024-04-26T21:04:16Z",
+		"updated-date": "2024-05-01T18:47:11Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -10280,7 +10325,7 @@
 		"full_name": "TimothyLuke/GSE-Advanced-Macro-Compiler",
 		"html_url": "https://github.com/TimothyLuke/GSE-Advanced-Macro-Compiler",
 		"description": "GSE is an alternative advanced macro editor and engine for World of Warcraft.  It uses Travis for UnitTests, Coveralls to report on test coverage and the Curse packager to build and publish GSE.",
-		"updated-date": "2024-04-18T03:12:01Z",
+		"updated-date": "2024-05-01T03:38:33Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -10476,12 +10521,11 @@
 		"full_name": "Total-RP/Total-RP-3",
 		"html_url": "https://github.com/Total-RP/Total-RP-3",
 		"description": "The best roleplaying add-on for World of Warcraft.",
-		"updated-date": "2024-03-20T18:55:17Z",
+		"updated-date": "2024-04-30T18:23:11Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"tbc",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "75973",
@@ -10513,7 +10557,7 @@
 		"full_name": "Toxicom/toxiui",
 		"html_url": "https://github.com/Toxicom/toxiui",
 		"description": "ToxiUI is a plugin for ElvUI in World of Warcraft",
-		"updated-date": "2024-04-24T07:58:17Z",
+		"updated-date": "2024-05-03T08:46:37Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -10592,7 +10636,7 @@
 		"full_name": "Urtgard/WQAchievements",
 		"html_url": "https://github.com/Urtgard/WQAchievements",
 		"description": "",
-		"updated-date": "2024-02-14T11:00:48Z",
+		"updated-date": "2024-05-03T10:51:09Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -10652,12 +10696,13 @@
 		"full_name": "VgerMods/Pawn",
 		"html_url": "https://github.com/VgerMods/Pawn",
 		"description": "Pawn: find upgrades, do more damage, win. (Download releases and ask questions at CurseForge.)",
-		"updated-date": "2024-04-09T00:24:52Z",
+		"updated-date": "2024-05-03T05:09:04Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-wago-id": "R4N2k46L"
@@ -10925,7 +10970,7 @@
 		"full_name": "WeakAuras/WeakAuras2",
 		"html_url": "https://github.com/WeakAuras/WeakAuras2",
 		"description": "World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.",
-		"updated-date": "2024-04-10T15:56:53Z",
+		"updated-date": "2024-05-01T00:56:01Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -10961,10 +11006,11 @@
 		"full_name": "Wipie/PepeGoldTracker",
 		"html_url": "https://github.com/Wipie/PepeGoldTracker",
 		"description": "PepeGoldTracker is an addon made to ease the tracking of gold accross multiples servers / guilds on your account.",
-		"updated-date": "2024-03-24T05:14:43Z",
+		"updated-date": "2024-05-02T18:30:46Z",
 		"flavor-list": [
 			"mainline",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "701500"
@@ -11025,11 +11071,11 @@
 		"full_name": "Witnesscm/InboxMailBag",
 		"html_url": "https://github.com/Witnesscm/InboxMailBag",
 		"description": "The Mail addon for World of Warcraft.",
-		"updated-date": "2023-10-25T13:30:19Z",
+		"updated-date": "2024-05-03T01:15:30Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"has-release-json": true
 	},
@@ -11039,7 +11085,7 @@
 		"full_name": "Witnesscm/NDui_Plus",
 		"html_url": "https://github.com/Witnesscm/NDui_Plus",
 		"description": "NDui plugin",
-		"updated-date": "2024-04-20T19:14:18Z",
+		"updated-date": "2024-05-03T00:19:18Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -11117,9 +11163,10 @@
 		"full_name": "Wutname1/SpartanUI",
 		"html_url": "https://github.com/Wutname1/SpartanUI",
 		"description": "SpartanUI",
-		"updated-date": "2024-03-19T23:35:59Z",
+		"updated-date": "2024-05-02T04:16:23Z",
 		"flavor-list": [
-			"mainline"
+			"vanilla",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "4575",
@@ -11195,11 +11242,12 @@
 		"full_name": "Xianghar/TotemTimers_Classic",
 		"html_url": "https://github.com/Xianghar/TotemTimers_Classic",
 		"description": "",
-		"updated-date": "2024-04-14T21:38:06Z",
+		"updated-date": "2024-05-01T12:41:14Z",
 		"flavor-list": [
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "339602",
@@ -11408,11 +11456,12 @@
 		"full_name": "Xruptor/BagSync",
 		"html_url": "https://github.com/Xruptor/BagSync",
 		"description": "BagSync tracks your characters items and displays it within tooltips.",
-		"updated-date": "2024-03-23T14:11:13Z",
+		"updated-date": "2024-05-02T22:25:20Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "22067",
@@ -11527,11 +11576,12 @@
 		"full_name": "Xruptor/XanChat",
 		"html_url": "https://github.com/Xruptor/XanChat",
 		"description": "My own personal modifications to the Chat Frame.",
-		"updated-date": "2023-09-18T21:51:26Z",
+		"updated-date": "2024-04-08T16:42:01Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "28603",
@@ -11763,7 +11813,7 @@
 		"full_name": "ZeChrales/AllTheMogs",
 		"html_url": "https://github.com/ZeChrales/AllTheMogs",
 		"description": "World of Warcraft Addon to check all the Transmogrifications available in game",
-		"updated-date": "2024-03-14T18:27:32Z",
+		"updated-date": "2024-04-30T17:33:17Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -12041,7 +12091,7 @@
 		"full_name": "ahakola/AlreadyKnown",
 		"html_url": "https://github.com/ahakola/AlreadyKnown",
 		"description": "WoW-addon // Puts green tint on already known scrolls/pets/other learnable items on vendors.",
-		"updated-date": "2024-04-27T00:06:44Z",
+		"updated-date": "2024-05-01T15:48:02Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -12233,6 +12283,22 @@
 		"has-release-json": true
 	},
 	{
+		"id": 141631756,
+		"name": "MrFish",
+		"full_name": "alarofrunetotem/MrFish",
+		"html_url": "https://github.com/alarofrunetotem/MrFish",
+		"description": "",
+		"updated-date": "2024-04-24T21:01:55Z",
+		"flavor-list": [
+			"mainline"
+		],
+		"project-id-map": {
+			"x-curse-project-id": "85383",
+			"x-wowi-id": ""
+		},
+		"has-release-json": true
+	},
+	{
 		"id": 279548539,
 		"name": "BigWigs_CountDown_Narwhal",
 		"full_name": "amtoft-eu/BigWigs_CountDown_Narwhal",
@@ -12346,11 +12412,12 @@
 		"full_name": "ascott18/TellMeWhen",
 		"html_url": "https://github.com/ascott18/TellMeWhen",
 		"description": "TellMeWhen is a combat tracking AddOn for World of Warcraft Retail and Classic",
-		"updated-date": "2024-03-23T02:52:38Z",
+		"updated-date": "2024-04-30T15:41:20Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "8025",
@@ -12513,7 +12580,7 @@
 		"full_name": "b-morgan/Skillet-Classic",
 		"html_url": "https://github.com/b-morgan/Skillet-Classic",
 		"description": "World of Warcraft Classic addon",
-		"updated-date": "2024-04-05T20:32:40Z",
+		"updated-date": "2024-05-01T15:10:25Z",
 		"flavor-list": [
 			"vanilla",
 			"wrath",
@@ -12532,7 +12599,7 @@
 		"full_name": "bbeny123/ChireTweaks",
 		"html_url": "https://github.com/bbeny123/ChireTweaks",
 		"description": "CPU-lightweight unit frames WoW add-on - based entirely on the original, in-game unit-frames",
-		"updated-date": "2024-01-16T19:18:43Z",
+		"updated-date": "2024-04-25T13:34:36Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -12634,6 +12701,22 @@
 		"has-release-json": true
 	},
 	{
+		"id": 690203434,
+		"name": "MapCleaner",
+		"full_name": "bloerwald/MapCleaner",
+		"html_url": "https://github.com/bloerwald/MapCleaner",
+		"description": "WoW Addon to clean up your world map from junk",
+		"updated-date": "2024-05-02T21:13:49Z",
+		"flavor-list": [
+			"mainline"
+		],
+		"project-id-map": {
+			"x-curse-project-id": "912312",
+			"x-wago-id": "ZKxqOyGk"
+		},
+		"has-release-json": true
+	},
+	{
 		"id": 196243837,
 		"name": "bdUI",
 		"full_name": "blooblahguy/bdUI",
@@ -12701,11 +12784,11 @@
 		"full_name": "brittyazel/DevTool",
 		"html_url": "https://github.com/brittyazel/DevTool",
 		"description": "A multipurpose tool to assist with World of Warcraft addon development",
-		"updated-date": "2024-04-03T00:33:05Z",
+		"updated-date": "2024-04-30T15:44:08Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "860160",
@@ -12901,7 +12984,7 @@
 		"full_name": "casualshammy/NameplateAuras",
 		"html_url": "https://github.com/casualshammy/NameplateAuras",
 		"description": "Addon for World of Warcraft that displays buffs/debuffs of players above their nameplates.",
-		"updated-date": "2024-04-22T18:40:06Z",
+		"updated-date": "2024-04-29T22:12:21Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -12917,7 +13000,7 @@
 		"full_name": "casualshammy/NameplateCooldowns",
 		"html_url": "https://github.com/casualshammy/NameplateCooldowns",
 		"description": "This addon for World of Warcraft will show you cooldowns of an enemies above their nameplates",
-		"updated-date": "2024-04-22T18:41:02Z",
+		"updated-date": "2024-04-29T22:13:06Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -13038,12 +13121,13 @@
 		"full_name": "clicketz/buff-overlay",
 		"html_url": "https://github.com/clicketz/buff-overlay",
 		"description": "Quickly and easily see active auras on other players so you can adjust your gameplay accordingly.",
-		"updated-date": "2024-03-20T01:48:56Z",
+		"updated-date": "2024-05-02T01:49:30Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "296067",
@@ -13075,7 +13159,7 @@
 		"full_name": "clocklear/BagAppraiser",
 		"html_url": "https://github.com/clocklear/BagAppraiser",
 		"description": "A World of Warcraft addon that offers comprehensive valuation of your bag contents by accessing a diverse range of pricing sources.",
-		"updated-date": "2024-03-20T18:07:37Z",
+		"updated-date": "2024-04-30T23:21:09Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13095,7 +13179,7 @@
 		"full_name": "clocklear/ElvUI_FriendlyCastTimes",
 		"html_url": "https://github.com/clocklear/ElvUI_FriendlyCastTimes",
 		"description": "Converts cast times greater than 60 seconds into more human-friendly representation (mm:ss or hh:mm, depending on duration)",
-		"updated-date": "2024-03-20T18:08:33Z",
+		"updated-date": "2024-04-30T23:21:55Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -13291,12 +13375,32 @@
 		"has-release-json": false
 	},
 	{
+		"id": 686955857,
+		"name": "CVARs",
+		"full_name": "d4kir92/CVARs",
+		"html_url": "https://github.com/d4kir92/CVARs",
+		"description": "",
+		"updated-date": "2024-05-02T05:40:04Z",
+		"flavor-list": [
+			"mainline",
+			"vanilla",
+			"tbc",
+			"wrath",
+			"cata"
+		],
+		"project-id-map": {
+			"x-curse-project-id": "909920",
+			"x-wago-id": "EGPXajG1"
+		},
+		"has-release-json": true
+	},
+	{
 		"id": 530076033,
 		"name": "Centered",
 		"full_name": "d4kir92/Centered",
 		"html_url": "https://github.com/d4kir92/Centered",
 		"description": "Centers the Unitframes",
-		"updated-date": "2024-04-03T18:43:27Z",
+		"updated-date": "2024-04-11T06:05:17Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13316,7 +13420,7 @@
 		"full_name": "d4kir92/D4KiR-MoveAndImprove",
 		"html_url": "https://github.com/d4kir92/D4KiR-MoveAndImprove",
 		"description": "",
-		"updated-date": "2024-04-03T06:50:40Z",
+		"updated-date": "2024-05-02T05:41:00Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13336,7 +13440,7 @@
 		"full_name": "d4kir92/DRaidFrames",
 		"html_url": "https://github.com/d4kir92/DRaidFrames",
 		"description": "Raid Frame Addon",
-		"updated-date": "2024-04-13T16:16:48Z",
+		"updated-date": "2024-05-02T05:41:22Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13356,7 +13460,7 @@
 		"full_name": "d4kir92/DUnitFrames",
 		"html_url": "https://github.com/d4kir92/DUnitFrames",
 		"description": "UnitFrame Addon",
-		"updated-date": "2024-04-25T18:15:09Z",
+		"updated-date": "2024-05-02T12:37:58Z",
 		"flavor-list": [
 			"vanilla",
 			"tbc",
@@ -13375,7 +13479,7 @@
 		"full_name": "d4kir92/DarkMode",
 		"html_url": "https://github.com/d4kir92/DarkMode",
 		"description": "",
-		"updated-date": "2024-05-01T00:32:21Z",
+		"updated-date": "2024-05-02T12:34:22Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13415,7 +13519,7 @@
 		"full_name": "d4kir92/HealerProtection",
 		"html_url": "https://github.com/d4kir92/HealerProtection",
 		"description": "Chat messages for Healers",
-		"updated-date": "2024-04-29T07:30:37Z",
+		"updated-date": "2024-05-03T07:15:47Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13435,7 +13539,7 @@
 		"full_name": "d4kir92/HighLevelAlert",
 		"html_url": "https://github.com/d4kir92/HighLevelAlert",
 		"description": "A Warning and Sound when you are near highlevel/elite",
-		"updated-date": "2024-04-13T16:17:23Z",
+		"updated-date": "2024-05-02T05:46:55Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13455,7 +13559,7 @@
 		"full_name": "d4kir92/ImproveAny",
 		"html_url": "https://github.com/d4kir92/ImproveAny",
 		"description": "Improves Ui",
-		"updated-date": "2024-04-03T06:46:47Z",
+		"updated-date": "2024-05-02T05:47:25Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13475,7 +13579,7 @@
 		"full_name": "d4kir92/LossOfControlMessages",
 		"html_url": "https://github.com/d4kir92/LossOfControlMessages",
 		"description": "loss of control messages in chat",
-		"updated-date": "2024-04-29T13:19:41Z",
+		"updated-date": "2024-05-02T05:47:47Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13495,7 +13599,7 @@
 		"full_name": "d4kir92/MissingPower",
 		"html_url": "https://github.com/d4kir92/MissingPower",
 		"description": "Shows how often you can cast a spell",
-		"updated-date": "2024-04-13T16:19:09Z",
+		"updated-date": "2024-05-02T05:48:18Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13515,7 +13619,7 @@
 		"full_name": "d4kir92/MoveAny",
 		"html_url": "https://github.com/d4kir92/MoveAny",
 		"description": "Move Addon",
-		"updated-date": "2024-04-22T09:30:04Z",
+		"updated-date": "2024-05-02T09:27:25Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13535,7 +13639,7 @@
 		"full_name": "d4kir92/RatePlayer",
 		"html_url": "https://github.com/d4kir92/RatePlayer",
 		"description": "You can rate Players and see what other rated",
-		"updated-date": "2024-04-13T16:19:34Z",
+		"updated-date": "2024-05-02T05:48:56Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13555,7 +13659,7 @@
 		"full_name": "d4kir92/SpecBisTooltip",
 		"html_url": "https://github.com/d4kir92/SpecBisTooltip",
 		"description": "",
-		"updated-date": "2024-04-29T07:51:01Z",
+		"updated-date": "2024-05-03T07:19:52Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13595,7 +13699,7 @@
 		"full_name": "d4kir92/TankHelper",
 		"html_url": "https://github.com/d4kir92/TankHelper",
 		"description": "RaidMarks, Pulltimer and more",
-		"updated-date": "2024-04-13T16:20:01Z",
+		"updated-date": "2024-05-02T05:51:19Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13615,7 +13719,7 @@
 		"full_name": "d4kir92/WorldMapPin",
 		"html_url": "https://github.com/d4kir92/WorldMapPin",
 		"description": "Adds a Marker to the WorldMap",
-		"updated-date": "2024-04-13T16:20:37Z",
+		"updated-date": "2024-05-02T06:40:28Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -13742,7 +13846,7 @@
 		"full_name": "dekallo/GreatVaultKeyInfo",
 		"html_url": "https://github.com/dekallo/GreatVaultKeyInfo",
 		"description": "Displays more info about your Mythic+ dungeons run in the Great Vault.",
-		"updated-date": "2024-04-20T15:08:56Z",
+		"updated-date": "2024-04-29T05:02:58Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -13844,7 +13948,7 @@
 		"full_name": "derfloh205/CraftSim",
 		"html_url": "https://github.com/derfloh205/CraftSim",
 		"description": "",
-		"updated-date": "2024-04-26T21:10:21Z",
+		"updated-date": "2024-04-30T07:16:00Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -13861,7 +13965,7 @@
 		"full_name": "derfloh205/LoadoutReminder",
 		"html_url": "https://github.com/derfloh205/LoadoutReminder",
 		"description": "",
-		"updated-date": "2024-04-15T04:58:48Z",
+		"updated-date": "2024-05-02T05:09:38Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -13895,7 +13999,7 @@
 		"full_name": "dfherr/ThreatClassic2",
 		"html_url": "https://github.com/dfherr/ThreatClassic2",
 		"description": "A  simple threat meter for WoW Classic \u0026 TBC Classic, successor of ClassicThreatMeter.",
-		"updated-date": "2024-01-11T02:11:54Z",
+		"updated-date": "2024-04-29T10:59:30Z",
 		"flavor-list": [
 			"vanilla",
 			"tbc",
@@ -13984,12 +14088,13 @@
 		"full_name": "doadin/Baggins",
 		"html_url": "https://github.com/doadin/Baggins",
 		"description": "",
-		"updated-date": "2024-03-19T15:47:43Z",
+		"updated-date": "2024-05-01T20:48:11Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "13471"
@@ -14002,7 +14107,7 @@
 		"full_name": "doadin/DoKeys",
 		"html_url": "https://github.com/doadin/DoKeys",
 		"description": "",
-		"updated-date": "2024-03-19T15:48:13Z",
+		"updated-date": "2024-05-01T02:32:20Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -14066,12 +14171,13 @@
 		"full_name": "doadin/Plexus",
 		"html_url": "https://github.com/doadin/Plexus",
 		"description": "",
-		"updated-date": "2024-03-19T15:50:13Z",
+		"updated-date": "2024-05-01T20:29:20Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "338710"
@@ -14635,11 +14741,10 @@
 		"full_name": "eltreum0/eltruism",
 		"html_url": "https://github.com/eltreum0/eltruism",
 		"description": "An ElvUI Plugin containing many features not available in ElvUI alongside DPS/Tank/Healer profiles and settings for other addons",
-		"updated-date": "2024-04-03T01:58:21Z",
+		"updated-date": "2024-04-30T22:59:29Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath",
 			"cata"
 		],
 		"project-id-map": {
@@ -14669,7 +14774,7 @@
 		"full_name": "emallson/Slab",
 		"html_url": "https://github.com/emallson/Slab",
 		"description": "Minimal, colorful nameplates",
-		"updated-date": "2024-02-19T15:34:47Z",
+		"updated-date": "2024-04-27T19:55:46Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -14975,10 +15080,10 @@
 		"full_name": "exochron/MountJournalEnhanced",
 		"html_url": "https://github.com/exochron/MountJournalEnhanced",
 		"description": "This is an interface addon for World of Warcraft, which extends the ingame mount journal with some cool stuff.",
-		"updated-date": "2024-04-01T08:43:01Z",
+		"updated-date": "2024-05-01T13:22:55Z",
 		"flavor-list": [
 			"mainline",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "86372",
@@ -15010,10 +15115,10 @@
 		"full_name": "exochron/ToyBoxEnhanced",
 		"html_url": "https://github.com/exochron/ToyBoxEnhanced",
 		"description": "an interface addon for World of Warcraft and its ingame toy box",
-		"updated-date": "2024-02-24T17:51:47Z",
+		"updated-date": "2024-05-02T15:49:36Z",
 		"flavor-list": [
 			"mainline",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "87878",
@@ -15061,7 +15166,7 @@
 		"full_name": "eyal-wow-addons/TooltipInfo",
 		"html_url": "https://github.com/eyal-wow-addons/TooltipInfo",
 		"description": "Enhances the standard tooltip with additional information and visuals.",
-		"updated-date": "2024-04-16T00:11:28Z",
+		"updated-date": "2024-05-01T20:54:22Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -15077,7 +15182,7 @@
 		"full_name": "eyal-wow-addons/WowInfo",
 		"html_url": "https://github.com/eyal-wow-addons/WowInfo",
 		"description": "Provides game and character information.",
-		"updated-date": "2024-03-21T00:14:22Z",
+		"updated-date": "2024-05-02T19:58:55Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -15181,7 +15286,7 @@
 		"full_name": "fang2hou/WeakAurasPatched",
 		"html_url": "https://github.com/fang2hou/WeakAurasPatched",
 		"description": "A patched version of WeakAuras",
-		"updated-date": "2024-04-10T16:07:22Z",
+		"updated-date": "2024-05-01T01:04:12Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -15579,12 +15684,13 @@
 		"full_name": "funkydude/BadBoy",
 		"html_url": "https://github.com/funkydude/BadBoy",
 		"description": "A simple spam blocker \u0026 reporter for World of Warcraft.",
-		"updated-date": "2024-01-16T22:13:01Z",
+		"updated-date": "2024-04-30T17:16:41Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "5547",
@@ -15599,12 +15705,13 @@
 		"full_name": "funkydude/BadBoy_CCleaner",
 		"html_url": "https://github.com/funkydude/BadBoy_CCleaner",
 		"description": "Filter crap from your chat in World of Warcraft.",
-		"updated-date": "2024-01-16T22:12:55Z",
+		"updated-date": "2024-04-30T21:54:53Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "19305",
@@ -15619,12 +15726,13 @@
 		"full_name": "funkydude/BadBoy_Guilded",
 		"html_url": "https://github.com/funkydude/BadBoy_Guilded",
 		"description": "Removes guild advertising from public channels in World of Warcraft.",
-		"updated-date": "2024-01-16T22:12:54Z",
+		"updated-date": "2024-04-30T21:56:00Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "24324",
@@ -15639,12 +15747,13 @@
 		"full_name": "funkydude/BadBoy_History",
 		"html_url": "https://github.com/funkydude/BadBoy_History",
 		"description": "Log all chat that's removed by the various BadBoy addons in World of Warcraft.",
-		"updated-date": "2024-01-16T22:12:16Z",
+		"updated-date": "2024-04-30T21:57:18Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "28451",
@@ -15659,12 +15768,13 @@
 		"full_name": "funkydude/BadBoy_Ignore",
 		"html_url": "https://github.com/funkydude/BadBoy_Ignore",
 		"description": "A simple and infinite ignore list to block chat from players in World of Warcraft.",
-		"updated-date": "2024-01-16T22:12:08Z",
+		"updated-date": "2024-04-30T21:59:11Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "103223",
@@ -15679,12 +15789,13 @@
 		"full_name": "funkydude/BadBoy_Levels",
 		"html_url": "https://github.com/funkydude/BadBoy_Levels",
 		"description": "Filter whispers by level in World of Warcraft.",
-		"updated-date": "2024-01-16T22:12:24Z",
+		"updated-date": "2024-04-30T22:00:18Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "18879",
@@ -15699,12 +15810,13 @@
 		"full_name": "funkydude/BasicBuffHide",
 		"html_url": "https://github.com/funkydude/BasicBuffHide",
 		"description": "Hide the Blizzard Buff frame in World of Warcraft.",
-		"updated-date": "2024-01-16T21:59:01Z",
+		"updated-date": "2024-04-30T22:01:47Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "13502",
@@ -15719,12 +15831,13 @@
 		"full_name": "funkydude/BasicBuffs",
 		"html_url": "https://github.com/funkydude/BasicBuffs",
 		"description": "Allows you to move the default buff frame in World of Warcraft.",
-		"updated-date": "2024-01-16T21:56:33Z",
+		"updated-date": "2024-04-30T22:03:00Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "13503",
@@ -15739,12 +15852,13 @@
 		"full_name": "funkydude/BasicChatMods",
 		"html_url": "https://github.com/funkydude/BasicChatMods",
 		"description": "Basic Chat Mods for World of Warcraft.",
-		"updated-date": "2024-02-07T13:59:34Z",
+		"updated-date": "2024-04-30T17:17:25Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "13504",
@@ -15759,12 +15873,13 @@
 		"full_name": "funkydude/BasicComboPoints",
 		"html_url": "https://github.com/funkydude/BasicComboPoints",
 		"description": "A numerical display of current combo points in World of Warcraft.",
-		"updated-date": "2024-02-10T12:54:09Z",
+		"updated-date": "2024-04-30T22:06:23Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "13505",
@@ -15779,12 +15894,13 @@
 		"full_name": "funkydude/BasicMinimap",
 		"html_url": "https://github.com/funkydude/BasicMinimap",
 		"description": "BasicMinimap is a basic solution to a clean, square minimap for World of Warcraft.",
-		"updated-date": "2024-03-19T23:14:07Z",
+		"updated-date": "2024-04-30T17:43:42Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "13506",
@@ -15799,12 +15915,13 @@
 		"full_name": "funkydude/BugSack",
 		"html_url": "https://github.com/funkydude/BugSack",
 		"description": "A simple display for collected errors in World of Warcraft.",
-		"updated-date": "2024-02-07T11:55:12Z",
+		"updated-date": "2024-04-30T18:09:10Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "6273",
@@ -15819,12 +15936,13 @@
 		"full_name": "funkydude/ErrorMonster",
 		"html_url": "https://github.com/funkydude/ErrorMonster",
 		"description": "Redirect character errors, system messages and information messages in World of Warcraft.",
-		"updated-date": "2024-02-10T12:43:06Z",
+		"updated-date": "2024-04-30T22:08:14Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "3367",
@@ -15839,12 +15957,13 @@
 		"full_name": "funkydude/LegionInvasionTimer",
 		"html_url": "https://github.com/funkydude/LegionInvasionTimer",
 		"description": "Timer for the Legion Invasion in World of Warcraft.",
-		"updated-date": "2024-01-16T17:55:08Z",
+		"updated-date": "2024-04-30T22:30:42Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "101625",
@@ -15859,12 +15978,13 @@
 		"full_name": "funkydude/MuteSoundFile",
 		"html_url": "https://github.com/funkydude/MuteSoundFile",
 		"description": "Mute sound files in World of Warcraft.",
-		"updated-date": "2024-02-10T12:35:32Z",
+		"updated-date": "2024-04-30T22:10:15Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "325542",
@@ -15879,12 +15999,13 @@
 		"full_name": "funkydude/SexyMap",
 		"html_url": "https://github.com/funkydude/SexyMap",
 		"description": "Spice up your minimap in World of Warcraft with some sexy options.",
-		"updated-date": "2024-03-19T23:11:22Z",
+		"updated-date": "2024-04-30T17:15:31Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "15936",
@@ -15899,12 +16020,13 @@
 		"full_name": "funkydude/SharedMedia_Noto",
 		"html_url": "https://github.com/funkydude/SharedMedia_Noto",
 		"description": "Add the Noto fonts to SharedMedia addons in World of Warcraft. ",
-		"updated-date": "2024-02-07T11:34:14Z",
+		"updated-date": "2024-04-30T22:12:38Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "302642",
@@ -15939,12 +16061,13 @@
 		"full_name": "funkydude/TargetPercent",
 		"html_url": "https://github.com/funkydude/TargetPercent",
 		"description": "Adds a health percentage to the Blizzard unit frames in World of Warcraft.",
-		"updated-date": "2024-02-07T11:15:14Z",
+		"updated-date": "2024-04-30T18:19:51Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "22140",
@@ -16064,6 +16187,23 @@
 			"wrath"
 		],
 		"has-release-json": false
+	},
+	{
+		"id": 592036594,
+		"name": "ZoxeTweaks",
+		"full_name": "geek0x23/ZoxeTweaks",
+		"html_url": "https://github.com/geek0x23/ZoxeTweaks",
+		"description": "An addon to fix 1440p scaling, and make AtrocityUI more visible with proper ultra-wide support.",
+		"updated-date": "2024-02-16T22:36:23Z",
+		"flavor-list": [
+			"mainline",
+			"vanilla",
+			"wrath"
+		],
+		"project-id-map": {
+			"x-curse-project-id": "937180"
+		},
+		"has-release-json": true
 	},
 	{
 		"id": 308293365,
@@ -16341,7 +16481,7 @@
 		"full_name": "herotc/hero-dbc",
 		"html_url": "https://github.com/herotc/hero-dbc",
 		"description": "Tools to extract information from the DBC and making it available as JSON and WoW Addon.",
-		"updated-date": "2024-03-20T00:44:15Z",
+		"updated-date": "2024-05-02T19:02:00Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -16353,7 +16493,7 @@
 		"full_name": "herotc/hero-lib",
 		"html_url": "https://github.com/herotc/hero-lib",
 		"description": "WoW Addon - Core Library used by HeroRotation and AethysTools, can also be used by others 3rd-Party Addons.",
-		"updated-date": "2024-04-25T17:41:21Z",
+		"updated-date": "2024-05-02T18:36:17Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -16365,7 +16505,7 @@
 		"full_name": "herotc/hero-rotation",
 		"html_url": "https://github.com/herotc/hero-rotation",
 		"description": "WoW Addon - Attempt to provide the useful and precise information to execute the best possible DPS rotation in every situation.",
-		"updated-date": "2024-04-25T17:36:00Z",
+		"updated-date": "2024-05-02T18:41:30Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -16377,7 +16517,7 @@
 		"full_name": "husandro/WoWTools",
 		"html_url": "https://github.com/husandro/WoWTools",
 		"description": "WoWTools",
-		"updated-date": "2024-04-25T17:26:28Z",
+		"updated-date": "2024-05-01T16:57:24Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -16408,7 +16548,7 @@
 		"full_name": "hypernormalisation/Scambuster-Golemagg",
 		"html_url": "https://github.com/hypernormalisation/Scambuster-Golemagg",
 		"description": "List of scammers and antisocial players on the WoW Classic Golemagg EU realm, curated by the Golemagg Discord, for use in the Scambuster addon framework.",
-		"updated-date": "2024-04-26T05:15:01Z",
+		"updated-date": "2024-05-03T05:15:01Z",
 		"flavor-list": [
 			"wrath"
 		],
@@ -16464,9 +16604,9 @@
 		"full_name": "iambz00/BriefStats",
 		"html_url": "https://github.com/iambz00/BriefStats",
 		"description": "Simple WoW addon to check status at a glance",
-		"updated-date": "2023-10-17T08:43:27Z",
+		"updated-date": "2024-05-03T10:58:32Z",
 		"flavor-list": [
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "605574"
@@ -16479,9 +16619,9 @@
 		"full_name": "iambz00/GearUp",
 		"html_url": "https://github.com/iambz00/GearUp",
 		"description": "Wow addon. Simple Equipment set manager with auto-swap",
-		"updated-date": "2023-10-17T08:44:20Z",
+		"updated-date": "2024-04-29T21:09:32Z",
 		"flavor-list": [
-			"wrath"
+			"cata"
 		],
 		"has-release-json": true
 	},
@@ -16491,9 +16631,9 @@
 		"full_name": "iambz00/Saved",
 		"html_url": "https://github.com/iambz00/Saved",
 		"description": "Simple WoW addon to list up instances, currency like gold or honor, item count, profession cooldowns for Classic(WotLK)",
-		"updated-date": "2024-02-27T20:00:10Z",
+		"updated-date": "2024-05-02T04:35:10Z",
 		"flavor-list": [
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "357612"
@@ -16506,9 +16646,9 @@
 		"full_name": "iambz00/upne-mod",
 		"html_url": "https://github.com/iambz00/upne-mod",
 		"description": "wow addon",
-		"updated-date": "2023-10-17T08:56:15Z",
+		"updated-date": "2024-05-03T09:38:26Z",
 		"flavor-list": [
-			"wrath"
+			"cata"
 		],
 		"has-release-json": true
 	},
@@ -16518,7 +16658,7 @@
 		"full_name": "icaca/WclPlayerScore-Sod",
 		"html_url": "https://github.com/icaca/WclPlayerScore-Sod",
 		"description": "WCL国服/亚服/美服/欧服/韩服数据，Plus版本",
-		"updated-date": "2024-04-26T18:11:43Z",
+		"updated-date": "2024-05-02T16:57:17Z",
 		"flavor-list": [
 			"vanilla"
 		],
@@ -16530,7 +16670,7 @@
 		"full_name": "icaca/WclPlayerScore-Vanilla",
 		"html_url": "https://github.com/icaca/WclPlayerScore-Vanilla",
 		"description": "WCL国服/亚服/美服/欧服/韩服数据，香草版本",
-		"updated-date": "2024-04-30T16:56:58Z",
+		"updated-date": "2024-05-02T16:56:37Z",
 		"flavor-list": [
 			"vanilla"
 		],
@@ -16542,7 +16682,7 @@
 		"full_name": "icaca/WclPlayerScore-WotLK",
 		"html_url": "https://github.com/icaca/WclPlayerScore-WotLK",
 		"description": "WCL国服/亚服/美服/欧服/韩服数据，巫妖王之怒版本",
-		"updated-date": "2024-04-29T16:56:27Z",
+		"updated-date": "2024-05-02T16:56:22Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -16567,6 +16707,18 @@
 		"html_url": "https://github.com/icbat/broker-dungeon-difficulty",
 		"description": "A WoW addon to allow easily switching dungeon and raid difficulties from a Broker display addon",
 		"updated-date": "2022-11-25T21:31:17Z",
+		"flavor-list": [
+			"mainline"
+		],
+		"has-release-json": false
+	},
+	{
+		"id": 448398599,
+		"name": "broker-loot-spec",
+		"full_name": "icbat/broker-loot-spec",
+		"html_url": "https://github.com/icbat/broker-loot-spec",
+		"description": "A WoW addon to easily switching your loot spec",
+		"updated-date": "2022-11-25T21:30:48Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -16682,11 +16834,11 @@
 		"full_name": "jiberishxd/ElvUI_JiberishUI",
 		"html_url": "https://github.com/jiberishxd/ElvUI_JiberishUI",
 		"description": "",
-		"updated-date": "2024-03-24T22:29:57Z",
+		"updated-date": "2024-05-02T02:49:53Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "843406"
@@ -16718,7 +16870,7 @@
 		"full_name": "jncl/Skinner",
 		"html_url": "https://github.com/jncl/Skinner",
 		"description": "World of Warcraft AddOn which changes the look of the default UI",
-		"updated-date": "2024-04-23T11:37:35Z",
+		"updated-date": "2024-04-29T10:40:28Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -16921,12 +17073,13 @@
 		"full_name": "jordonwow/bigdebuffs",
 		"html_url": "https://github.com/jordonwow/bigdebuffs",
 		"description": "",
-		"updated-date": "2024-03-21T12:11:32Z",
+		"updated-date": "2024-04-30T04:27:09Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "82697",
@@ -16941,12 +17094,13 @@
 		"full_name": "jordonwow/omnibar",
 		"html_url": "https://github.com/jordonwow/omnibar",
 		"description": "",
-		"updated-date": "2024-03-21T12:13:29Z",
+		"updated-date": "2024-04-30T04:33:32Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "85814",
@@ -17079,11 +17233,12 @@
 		"full_name": "kapresoft/wow-addon-devsuite",
 		"html_url": "https://github.com/kapresoft/wow-addon-devsuite",
 		"description": "Developer Tools Addon for World of Warcraft",
-		"updated-date": "2024-04-04T06:14:30Z",
+		"updated-date": "2024-04-30T01:29:50Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "566626"
@@ -17579,11 +17734,12 @@
 		"full_name": "kemayo/wow-silverdragon",
 		"html_url": "https://github.com/kemayo/wow-silverdragon",
 		"description": "World of Warcraft addon to find rare mobs",
-		"updated-date": "2024-01-17T01:08:46Z",
+		"updated-date": "2024-05-02T03:46:59Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "14647",
@@ -17598,11 +17754,12 @@
 		"full_name": "kemayo/wow-simpleitemlevel",
 		"html_url": "https://github.com/kemayo/wow-simpleitemlevel",
 		"description": "World of Warcraft addon to show item levels",
-		"updated-date": "2024-02-25T23:25:36Z",
+		"updated-date": "2024-05-02T03:16:46Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "287692",
@@ -17632,7 +17789,7 @@
 		"full_name": "kesava-wow/kuinameplates2",
 		"html_url": "https://github.com/kesava-wow/kuinameplates2",
 		"description": "Prettier nameplates.",
-		"updated-date": "2024-02-15T23:23:53Z",
+		"updated-date": "2024-05-02T20:19:45Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -18250,7 +18407,7 @@
 		"full_name": "keyboardturner/DragonRider",
 		"html_url": "https://github.com/keyboardturner/DragonRider",
 		"description": "Displays speed values above the vigor bar and maybe does some other stuff.",
-		"updated-date": "2024-03-19T21:51:11Z",
+		"updated-date": "2024-05-02T11:13:12Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -18560,7 +18717,7 @@
 		"full_name": "kstange/MasqueBlizzBars",
 		"html_url": "https://github.com/kstange/MasqueBlizzBars",
 		"description": "This addon enables Masque to skin the built-in WoW action bars",
-		"updated-date": "2024-04-25T02:11:13Z",
+		"updated-date": "2024-05-01T23:31:57Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -18580,7 +18737,7 @@
 		"full_name": "kstange/MasqueBlizzInv",
 		"html_url": "https://github.com/kstange/MasqueBlizzInv",
 		"description": "This addon enables Masque to skin the built-in WoW inventory UI",
-		"updated-date": "2024-04-25T02:11:37Z",
+		"updated-date": "2024-05-01T23:43:02Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -19050,7 +19207,7 @@
 		"full_name": "martinbjeldbak/Shotta",
 		"html_url": "https://github.com/martinbjeldbak/Shotta",
 		"description": "World of Warcraft addon to take screenshots at specific events",
-		"updated-date": "2024-04-22T12:36:44Z",
+		"updated-date": "2024-05-01T15:59:17Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla"
@@ -19120,11 +19277,11 @@
 		"full_name": "michaelnpsp/CastCursor",
 		"html_url": "https://github.com/michaelnpsp/CastCursor",
 		"description": "Displays circular cast bars around the cursor",
-		"updated-date": "2024-04-05T18:23:23Z",
+		"updated-date": "2024-05-01T06:55:34Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "305957",
@@ -19138,10 +19295,10 @@
 		"full_name": "michaelnpsp/GatherMate2GasClouds",
 		"html_url": "https://github.com/michaelnpsp/GatherMate2GasClouds",
 		"description": "Gas Clouds Data for World of Warcraft Burning Crusade GatherMate2 Addon",
-		"updated-date": "2024-03-20T18:22:41Z",
+		"updated-date": "2024-05-01T06:45:58Z",
 		"flavor-list": [
 			"mainline",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "530769",
@@ -19155,11 +19312,9 @@
 		"full_name": "michaelnpsp/Grid2",
 		"html_url": "https://github.com/michaelnpsp/Grid2",
 		"description": "Grid2 is a party/raid unit frame addon for World of Warcraft.",
-		"updated-date": "2024-04-16T22:34:35Z",
+		"updated-date": "2024-05-01T20:52:27Z",
 		"flavor-list": [
-			"mainline",
-			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "15226",
@@ -19173,11 +19328,11 @@
 		"full_name": "michaelnpsp/KiwiFarm",
 		"html_url": "https://github.com/michaelnpsp/KiwiFarm",
 		"description": "Resets \u0026 gold tracking addon for World of Warcraft Classic",
-		"updated-date": "2024-04-05T18:19:40Z",
+		"updated-date": "2024-05-01T06:51:23Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "350500",
@@ -19191,11 +19346,11 @@
 		"full_name": "michaelnpsp/KiwiMBC",
 		"html_url": "https://github.com/michaelnpsp/KiwiMBC",
 		"description": "Simple minimap buttons manager for World of Warcraft Classic",
-		"updated-date": "2024-04-05T18:24:51Z",
+		"updated-date": "2024-05-01T07:09:17Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "521325",
@@ -19209,12 +19364,13 @@
 		"full_name": "michaelnpsp/KiwiPlates",
 		"html_url": "https://github.com/michaelnpsp/KiwiPlates",
 		"description": "Nameplates Addon for World of Warcraft",
-		"updated-date": "2024-04-05T18:18:44Z",
+		"updated-date": "2024-05-01T08:05:33Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "95612",
@@ -19228,12 +19384,13 @@
 		"full_name": "michaelnpsp/KiwiPlatesProfiles",
 		"html_url": "https://github.com/michaelnpsp/KiwiPlatesProfiles",
 		"description": "Additional Profiles for KiwiPlates addon.",
-		"updated-date": "2024-04-05T18:19:08Z",
+		"updated-date": "2024-05-01T07:08:25Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "947825",
@@ -19390,11 +19547,11 @@
 		"full_name": "moody/Dejunk",
 		"html_url": "https://github.com/moody/Dejunk",
 		"description": "Simple junk selling and destroying for WoW.",
-		"updated-date": "2024-02-09T19:43:34Z",
+		"updated-date": "2024-04-30T22:51:46Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"has-release-json": true
 	},
@@ -19404,11 +19561,11 @@
 		"full_name": "moody/Lootifications",
 		"html_url": "https://github.com/moody/Lootifications",
 		"description": "Displays notifications for new loot in WoW.",
-		"updated-date": "2024-01-03T21:24:19Z",
+		"updated-date": "2024-04-30T22:36:50Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"has-release-json": true
 	},
@@ -19760,11 +19917,11 @@
 		"full_name": "nebularg/BetterAddonList",
 		"html_url": "https://github.com/nebularg/BetterAddonList",
 		"description": "Enhances the default AddOns list.",
-		"updated-date": "2024-04-10T03:04:36Z",
+		"updated-date": "2024-05-02T12:54:57Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "86704",
@@ -19813,10 +19970,16 @@
 		"full_name": "nebularg/PitBull4",
 		"html_url": "https://github.com/nebularg/PitBull4",
 		"description": "Woof. Arf. Yip.",
-		"updated-date": "2023-11-17T11:15:32Z",
+		"updated-date": "2024-05-02T14:43:57Z",
 		"flavor-list": [
-			"mainline"
+			"mainline",
+			"cata"
 		],
+		"project-id-map": {
+			"x-curse-project-id": "7522",
+			"x-wago-id": "LvNAmONo",
+			"x-wowi-id": "20021"
+		},
 		"has-release-json": true
 	},
 	{
@@ -20307,12 +20470,13 @@
 		"full_name": "nyyr/ArcHUD3",
 		"html_url": "https://github.com/nyyr/ArcHUD3",
 		"description": "WoW Addon: Smooth combat HUD based on ArcHUD2",
-		"updated-date": "2024-03-06T01:44:50Z",
+		"updated-date": "2024-05-02T22:24:31Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "26891",
@@ -20342,11 +20506,10 @@
 		"full_name": "ogri-la/elvui",
 		"html_url": "https://github.com/ogri-la/elvui",
 		"description": "",
-		"updated-date": "2024-04-03T02:30:14Z",
+		"updated-date": "2024-05-02T20:30:15Z",
 		"flavor-list": [
 			"mainline",
-			"vanilla",
-			"wrath"
+			"vanilla"
 		],
 		"has-release-json": true
 	},
@@ -20727,7 +20890,7 @@
 		"full_name": "papa-smurf/Gargul",
 		"html_url": "https://github.com/papa-smurf/Gargul",
 		"description": "",
-		"updated-date": "2024-04-23T19:43:08Z",
+		"updated-date": "2024-05-01T23:12:53Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -20781,12 +20944,13 @@
 		"full_name": "parnic/RepairBroker",
 		"html_url": "https://github.com/parnic/RepairBroker",
 		"description": "",
-		"updated-date": "2024-04-15T22:04:58Z",
+		"updated-date": "2024-05-01T04:24:08Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "16139"
@@ -20799,12 +20963,13 @@
 		"full_name": "parnic/breakables",
 		"html_url": "https://github.com/parnic/breakables",
 		"description": "Breakables addon for World of Warcraft",
-		"updated-date": "2024-04-15T22:05:11Z",
+		"updated-date": "2024-05-01T04:23:46Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "16629",
@@ -20819,12 +20984,13 @@
 		"full_name": "parnic/ice-hud",
 		"html_url": "https://github.com/parnic/ice-hud",
 		"description": "IceHUD addon for World of Warcraft",
-		"updated-date": "2024-04-15T22:06:16Z",
+		"updated-date": "2024-05-01T04:27:52Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "5394",
@@ -21262,7 +21428,7 @@
 		"full_name": "prsauer/gear-stick",
 		"html_url": "https://github.com/prsauer/gear-stick",
 		"description": "",
-		"updated-date": "2024-04-30T05:25:22Z",
+		"updated-date": "2024-05-03T05:25:46Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -21333,7 +21499,7 @@
 		"full_name": "raethkcj/RatingBuster",
 		"html_url": "https://github.com/raethkcj/RatingBuster",
 		"description": "An item comparison tool for WoW Classic.",
-		"updated-date": "2024-04-18T19:26:16Z",
+		"updated-date": "2024-04-30T22:08:53Z",
 		"flavor-list": [
 			"vanilla",
 			"tbc",
@@ -21408,7 +21574,7 @@
 		"full_name": "rgd87/Aptechka",
 		"html_url": "https://github.com/rgd87/Aptechka",
 		"description": "WoW Addon - Raid Frames",
-		"updated-date": "2024-04-26T13:02:48Z",
+		"updated-date": "2024-04-30T12:12:41Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -21524,12 +21690,13 @@
 		"full_name": "rgd87/NugComboBar",
 		"html_url": "https://github.com/rgd87/NugComboBar",
 		"description": "WoW Addon - Class resources",
-		"updated-date": "2024-03-14T01:00:55Z",
+		"updated-date": "2024-04-30T17:54:23Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "2538",
@@ -21544,12 +21711,13 @@
 		"full_name": "rgd87/NugEnergy",
 		"html_url": "https://github.com/rgd87/NugEnergy",
 		"description": "WoW Addon - Energy monitor",
-		"updated-date": "2024-01-01T04:53:35Z",
+		"updated-date": "2024-04-30T15:50:46Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "43975",
@@ -21648,12 +21816,13 @@
 		"full_name": "rgd87/NugRunning",
 		"html_url": "https://github.com/rgd87/NugRunning",
 		"description": "WoW Addon - Timers for over time spells and cooldowns",
-		"updated-date": "2024-02-05T10:04:43Z",
+		"updated-date": "2024-04-30T19:04:36Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "27470",
@@ -21748,26 +21917,12 @@
 		"has-release-json": true
 	},
 	{
-		"id": 779643732,
-		"name": "NaowhUI_DFS3",
-		"full_name": "rootkit1337tv/NaowhUI_DFS3",
-		"html_url": "https://github.com/rootkit1337tv/NaowhUI_DFS3",
-		"description": "",
-		"updated-date": "2024-04-05T16:35:59Z",
-		"flavor-list": [
-			"mainline",
-			"vanilla",
-			"wrath"
-		],
-		"has-release-json": true
-	},
-	{
 		"id": 791145015,
 		"name": "NaowhUI_DFS4",
 		"full_name": "rootkit1337tv/NaowhUI_DFS4",
 		"html_url": "https://github.com/rootkit1337tv/NaowhUI_DFS4",
 		"description": "",
-		"updated-date": "2024-04-26T12:59:14Z",
+		"updated-date": "2024-05-02T13:03:32Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -21781,11 +21936,12 @@
 		"full_name": "rscheele/KeyBindProfiles",
 		"html_url": "https://github.com/rscheele/KeyBindProfiles",
 		"description": "Key Bind Profiles World of Warcraft addon",
-		"updated-date": "2023-12-11T22:21:01Z",
+		"updated-date": "2024-05-02T17:45:40Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "681984",
@@ -21810,7 +21966,7 @@
 		"full_name": "ryp-erl/Raiduku",
 		"html_url": "https://github.com/ryp-erl/Raiduku",
 		"description": "Minimalist World of Warcraft addon to help raid leaders managing loots in Burning Crusade Classic.",
-		"updated-date": "2024-04-15T18:25:33Z",
+		"updated-date": "2024-05-01T09:16:50Z",
 		"flavor-list": [
 			"cata"
 		],
@@ -21858,11 +22014,11 @@
 		"full_name": "sandervspl/BuffTimers",
 		"html_url": "https://github.com/sandervspl/BuffTimers",
 		"description": "World of Warcraft addon to show full buff timers",
-		"updated-date": "2024-04-03T08:14:24Z",
+		"updated-date": "2024-05-02T07:15:07Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "352620",
@@ -22016,12 +22172,13 @@
 		"full_name": "seblindfors/ConsolePort",
 		"html_url": "https://github.com/seblindfors/ConsolePort",
 		"description": "ConsolePort - Game Controller Addon for World of Warcraft",
-		"updated-date": "2024-04-17T21:05:06Z",
+		"updated-date": "2024-05-01T10:19:50Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "91376",
@@ -22036,12 +22193,12 @@
 		"full_name": "seblindfors/Immersion",
 		"html_url": "https://github.com/seblindfors/Immersion",
 		"description": "Immersive questing addon for World of Warcraft",
-		"updated-date": "2024-04-04T08:26:38Z",
+		"updated-date": "2024-05-01T10:23:42Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "257550",
@@ -22096,9 +22253,9 @@
 		"full_name": "sfmict/CursorMod",
 		"html_url": "https://github.com/sfmict/CursorMod",
 		"description": "Makes mouse pointer remain on screen while mouselook/steering.",
-		"updated-date": "2024-04-04T19:13:11Z",
+		"updated-date": "2024-05-01T04:14:16Z",
 		"flavor-list": [
-			"vanilla"
+			"cata"
 		],
 		"has-release-json": false
 	},
@@ -22108,9 +22265,9 @@
 		"full_name": "sfmict/HidingBar",
 		"html_url": "https://github.com/sfmict/HidingBar",
 		"description": "Adds a custom panel for easy add-on management.",
-		"updated-date": "2024-04-25T17:52:57Z",
+		"updated-date": "2024-05-01T03:47:10Z",
 		"flavor-list": [
-			"mainline"
+			"cata"
 		],
 		"has-release-json": false
 	},
@@ -22120,9 +22277,11 @@
 		"full_name": "sfmict/LibSFDropDown",
 		"html_url": "https://github.com/sfmict/LibSFDropDown",
 		"description": "Library for World of Warcraft",
-		"updated-date": "2024-04-11T09:00:57Z",
+		"updated-date": "2024-04-28T20:17:25Z",
 		"flavor-list": [
-			"mainline"
+			"mainline",
+			"vanilla",
+			"wrath"
 		],
 		"has-release-json": false
 	},
@@ -22144,7 +22303,7 @@
 		"full_name": "sfmict/MountsJournal",
 		"html_url": "https://github.com/sfmict/MountsJournal",
 		"description": "Addon makes it possible to sort mounts on waterfowl, flying, ground and allows to use in suitable conditions (random mount summoning).",
-		"updated-date": "2024-04-24T23:01:16Z",
+		"updated-date": "2024-05-01T17:24:29Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -22156,9 +22315,10 @@
 		"full_name": "sfmict/MountsJournal-ElvUI-Skin",
 		"html_url": "https://github.com/sfmict/MountsJournal-ElvUI-Skin",
 		"description": "This addon reskins the MountsJournal addon for ElvUI.",
-		"updated-date": "2024-03-23T09:36:12Z",
+		"updated-date": "2024-05-01T17:29:10Z",
 		"flavor-list": [
-			"mainline"
+			"mainline",
+			"cata"
 		],
 		"has-release-json": false
 	},
@@ -22168,9 +22328,9 @@
 		"full_name": "sfmict/MountsJournal_Classic",
 		"html_url": "https://github.com/sfmict/MountsJournal_Classic",
 		"description": "Addon makes it possible to sort mounts on waterfowl, flying, ground and allows to use in suitable conditions (random mount summoning). ",
-		"updated-date": "2024-03-29T15:48:00Z",
+		"updated-date": "2024-05-01T17:27:47Z",
 		"flavor-list": [
-			"wrath"
+			"cata"
 		],
 		"has-release-json": false
 	},
@@ -22180,7 +22340,7 @@
 		"full_name": "sgade/MountsRarity",
 		"html_url": "https://github.com/sgade/MountsRarity",
 		"description": "World of Warcraft addon that provides rarity data of mounts among the playerbase",
-		"updated-date": "2024-04-25T01:09:19Z",
+		"updated-date": "2024-05-02T01:07:15Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -22221,7 +22381,7 @@
 		"full_name": "shirsig/aux-addon",
 		"html_url": "https://github.com/shirsig/aux-addon",
 		"description": "Auction House addOn for Classic (1.13) IMPORTANT: The folder name must be \"aux-addon\" IMPORTANT: The Vanilla (1.12) version moved here https://github.com/shirsig/aux-addon-vanilla",
-		"updated-date": "2023-10-18T17:29:17Z",
+		"updated-date": "2024-05-03T05:11:28Z",
 		"flavor-list": [
 			"wrath"
 		],
@@ -22277,7 +22437,7 @@
 		"full_name": "siweia/AuroraClassic",
 		"html_url": "https://github.com/siweia/AuroraClassic",
 		"description": "",
-		"updated-date": "2024-02-01T16:10:22Z",
+		"updated-date": "2024-04-20T15:41:10Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -22292,14 +22452,14 @@
 		"full_name": "siweia/NDui",
 		"html_url": "https://github.com/siweia/NDui",
 		"description": "NDui for World of Warcraft",
-		"updated-date": "2024-04-25T06:22:23Z",
+		"updated-date": "2024-05-02T11:44:59Z",
 		"flavor-list": [
-			"mainline"
+			"cata"
 		],
 		"project-id-map": {
-			"x-curse-project-id": "324377",
+			"x-curse-project-id": "338794",
 			"x-wago-id": "Xb6X4j6p",
-			"x-wowi-id": "24846"
+			"x-wowi-id": "25188"
 		},
 		"has-release-json": true
 	},
@@ -22514,23 +22674,6 @@
 		"has-release-json": true
 	},
 	{
-		"id": 592036594,
-		"name": "ZoxeTweaks",
-		"full_name": "swaj/ZoxeTweaks",
-		"html_url": "https://github.com/swaj/ZoxeTweaks",
-		"description": "An addon to fix 1440p scaling, and make AtrocityUI more visible with proper ultra-wide support.",
-		"updated-date": "2024-02-16T22:36:23Z",
-		"flavor-list": [
-			"mainline",
-			"vanilla",
-			"wrath"
-		],
-		"project-id-map": {
-			"x-curse-project-id": "937180"
-		},
-		"has-release-json": true
-	},
-	{
 		"id": 204337742,
 		"name": "addon-control-panel",
 		"full_name": "sylvanaar/addon-control-panel",
@@ -22646,12 +22789,13 @@
 		"full_name": "syndenbock/AddonProfiles",
 		"html_url": "https://github.com/syndenbock/AddonProfiles",
 		"description": "World of Warcraft addon that allows easy saving and restoring of lists of enabled addons.",
-		"updated-date": "2024-03-20T16:42:06Z",
+		"updated-date": "2024-05-01T12:01:17Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "504844"
@@ -22664,12 +22808,13 @@
 		"full_name": "syndenbock/Farmer",
 		"html_url": "https://github.com/syndenbock/Farmer",
 		"description": "World of Warcraft addon that makes farming fun",
-		"updated-date": "2024-03-20T16:41:25Z",
+		"updated-date": "2024-05-01T11:57:13Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "282961",
@@ -22698,12 +22843,13 @@
 		"full_name": "syndenbock/MinimapButtonButton",
 		"html_url": "https://github.com/syndenbock/MinimapButtonButton",
 		"description": "A World of Warcraft addon for collecting minimap buttons",
-		"updated-date": "2024-04-20T19:06:23Z",
+		"updated-date": "2024-05-01T11:59:28Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "446096",
@@ -22741,7 +22887,7 @@
 		"full_name": "teelolws/Dragonriding_Speedrun",
 		"html_url": "https://github.com/teelolws/Dragonriding_Speedrun",
 		"description": "",
-		"updated-date": "2024-03-19T20:58:18Z",
+		"updated-date": "2024-04-30T09:22:04Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -22787,7 +22933,7 @@
 		"full_name": "teelolws/MplusAG",
 		"html_url": "https://github.com/teelolws/MplusAG",
 		"description": "A relatively light addon that adds an extra DropDown option to the Encounter Journal, to pick Season 4 as your \"Expansion\".",
-		"updated-date": "2024-04-25T03:13:05Z",
+		"updated-date": "2024-05-02T04:04:42Z",
 		"flavor-list": [
 			"mainline"
 		],
@@ -22998,10 +23144,11 @@
 		"full_name": "thespags/InstanceCurrencyTracker",
 		"html_url": "https://github.com/thespags/InstanceCurrencyTracker",
 		"description": "World of Warcraft Addon for tracking instances and currency across all characters.",
-		"updated-date": "2024-04-04T04:45:01Z",
+		"updated-date": "2024-05-03T06:55:08Z",
 		"flavor-list": [
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "892801",
@@ -23230,7 +23377,7 @@
 		"full_name": "tullamods/Dominos",
 		"html_url": "https://github.com/tullamods/Dominos",
 		"description": "A main actionbar replacement",
-		"updated-date": "2024-04-20T19:52:36Z",
+		"updated-date": "2024-05-01T23:31:10Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -23250,11 +23397,12 @@
 		"full_name": "tullamods/OmniCC",
 		"html_url": "https://github.com/tullamods/OmniCC",
 		"description": "Cooldown count for everything",
-		"updated-date": "2024-02-21T23:26:35Z",
+		"updated-date": "2024-05-01T23:02:20Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"has-release-json": true
 	},
@@ -23278,11 +23426,12 @@
 		"full_name": "tullamods/tullaCTC",
 		"html_url": "https://github.com/tullamods/tullaCTC",
 		"description": "Cooldown Text Colorizer",
-		"updated-date": "2024-02-06T18:34:34Z",
+		"updated-date": "2024-05-01T23:04:22Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"has-release-json": true
 	},
@@ -23292,11 +23441,12 @@
 		"full_name": "tullamods/tullaRange",
 		"html_url": "https://github.com/tullamods/tullaRange",
 		"description": "Colors actionbuttons when out of range",
-		"updated-date": "2024-02-06T19:34:22Z",
+		"updated-date": "2024-05-01T23:03:12Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"has-release-json": true
 	},
@@ -23568,7 +23718,7 @@
 		"full_name": "wardz/DRList-1.0",
 		"html_url": "https://github.com/wardz/DRList-1.0",
 		"description": "[WoW] Library for crowd control diminishing returns categorization data.",
-		"updated-date": "2024-04-03T07:22:18Z",
+		"updated-date": "2024-04-29T13:39:10Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
@@ -23576,6 +23726,10 @@
 			"wrath",
 			"cata"
 		],
+		"project-id-map": {
+			"x-curse-project-id": "315757",
+			"x-wago-id": "9rN4BxKD"
+		},
 		"has-release-json": true
 	},
 	{
@@ -23584,12 +23738,13 @@
 		"full_name": "wardz/Diminish",
 		"html_url": "https://github.com/wardz/Diminish",
 		"description": "[WoW] Diminishing returns tracker for players crowd controls.",
-		"updated-date": "2024-02-14T18:42:44Z",
+		"updated-date": "2024-04-29T13:17:54Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
 			"tbc",
-			"wrath"
+			"wrath",
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "92871",
@@ -23762,11 +23917,11 @@
 		"full_name": "wow-rp-addons/LibRPMedia",
 		"html_url": "https://github.com/wow-rp-addons/LibRPMedia",
 		"description": "LibRPMedia provides a common database of in-game resources for use by World of Warcraft RP addons.",
-		"updated-date": "2024-01-16T19:03:44Z",
+		"updated-date": "2024-04-29T21:24:07Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "324111",
@@ -23880,10 +24035,10 @@
 		"full_name": "xod-wow/LiteBag",
 		"html_url": "https://github.com/xod-wow/LiteBag",
 		"description": "World of Warcraft addon LiteBag",
-		"updated-date": "2024-04-09T10:45:13Z",
+		"updated-date": "2024-05-01T00:01:49Z",
 		"flavor-list": [
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "50424",
@@ -23897,11 +24052,11 @@
 		"full_name": "xod-wow/LiteButtonAuras",
 		"html_url": "https://github.com/xod-wow/LiteButtonAuras",
 		"description": "",
-		"updated-date": "2024-03-22T09:33:18Z",
+		"updated-date": "2024-05-01T00:04:30Z",
 		"flavor-list": [
 			"mainline",
 			"vanilla",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "526431",
@@ -23930,10 +24085,10 @@
 		"full_name": "xod-wow/LiteMount",
 		"html_url": "https://github.com/xod-wow/LiteMount",
 		"description": "World of Warcraft addon LiteMount",
-		"updated-date": "2024-04-19T00:53:02Z",
+		"updated-date": "2024-05-03T09:57:03Z",
 		"flavor-list": [
 			"mainline",
-			"wrath"
+			"cata"
 		],
 		"project-id-map": {
 			"x-curse-project-id": "30359",
@@ -24070,6 +24225,24 @@
 			"vanilla"
 		],
 		"has-release-json": true
+	},
+	{
+		"id": 792974154,
+		"name": "BetterBags_ImportExport",
+		"full_name": "zeptognome/BetterBags_ImportExport",
+		"html_url": "https://github.com/zeptognome/BetterBags_ImportExport",
+		"description": "Wow Plugin for Betterbags",
+		"updated-date": "2024-04-29T04:20:15Z",
+		"flavor-list": [
+			"mainline",
+			"vanilla",
+			"cata"
+		],
+		"project-id-map": {
+			"x-curse-project-id": "1010211",
+			"x-wago-id": "rNkPdw6a"
+		},
+		"has-release-json": false
 	},
 	{
 		"id": 790544201,
