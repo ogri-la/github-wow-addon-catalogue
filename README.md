@@ -1,4 +1,5 @@
-**Archived 2024-05-05 in favour of my translation here: https://github.com/ogri-la/github-wow-addon-catalogue-go**
+**Archived 2024-05-05 in favour of my translation here:  
+https://github.com/ogri-la/github-wow-addon-catalogue-go**
 
 ---
 
